@@ -1,26 +1,26 @@
-88	run02	AB	A	reward	matched	1.570120
-88	run02	AB	A	reward	matched	1.582157
-88	run02	CD	D	punish	matched	1.582625
-88	run02	AB	B	reward	mismatched	1.596904
-88	run02	Miss	Miss	Miss	Miss	Miss
-88	run02	CD	D	punish	matched	1.592688
-88	run02	Miss	Miss	Miss	Miss	Miss
-88	run02	EF	F	reward	mismatched	1.589023
-88	run02	CD	C	reward	matched	1.587113
-88	run02	EF	F	punish	matched	1.602933
-88	run02	CD	D	reward	mismatched	1.600153
-88	run02	EF	F	reward	mismatched	1.583059
-88	run02	EF	F	reward	mismatched	1.596445
-88	run02	CD	D	punish	matched	1.595345
-88	run02	CD	C	reward	matched	1.594784
-88	run02	Miss	Miss	Miss	Miss	Miss
-88	run02	CD	C	punish	mismatched	1.590996
-88	run02	CD	D	reward	mismatched	1.622105
-88	run02	CD	D	punish	matched	1.588025
-88	run02	EF	E	reward	matched	1.584739
-88	run02	AB	B	punish	matched	1.583540
-88	run02	CD	C	reward	matched	1.598533
-88	run02	AB	B	reward	mismatched	1.580281
-88	run02	AB	B	punish	matched	1.577908
-88	run02	EF	E	punish	mismatched	1.593033
-88	run02	EF	E	reward	matched	1.591035
+88	run02	AB	A	2	reward	matched	1.570120
+88	run02	AB	A	2	reward	matched	1.582157
+88	run02	CD	D	2	punish	matched	1.582625
+88	run02	AB	B	1	reward	mismatched	1.596904
+88	run02	CD	Miss	Miss	Miss	Miss	Miss
+88	run02	CD	D	1	punish	matched	1.592688
+88	run02	AB	Miss	Miss	Miss	Miss	Miss
+88	run02	EF	F	2	reward	mismatched	1.589023
+88	run02	CD	C	1	reward	matched	1.587113
+88	run02	EF	F	1	punish	matched	1.602933
+88	run02	CD	D	1	reward	mismatched	1.600153
+88	run02	EF	F	1	reward	mismatched	1.583059
+88	run02	EF	F	2	reward	mismatched	1.596445
+88	run02	CD	D	1	punish	matched	1.595345
+88	run02	CD	C	2	reward	matched	1.594784
+88	run02	AB	Miss	Miss	Miss	Miss	Miss
+88	run02	CD	C	2	punish	mismatched	1.590996
+88	run02	CD	D	2	reward	mismatched	1.622105
+88	run02	CD	D	2	punish	matched	1.588025
+88	run02	EF	E	1	reward	matched	1.584739
+88	run02	AB	B	2	punish	matched	1.583540
+88	run02	CD	C	2	reward	matched	1.598533
+88	run02	AB	B	2	reward	mismatched	1.580281
+88	run02	AB	B	2	punish	matched	1.577908
+88	run02	EF	E	2	punish	mismatched	1.593033
+88	run02	EF	E	1	reward	matched	1.591035

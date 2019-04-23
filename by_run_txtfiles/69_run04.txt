@@ -1,26 +1,4 @@
-69	run04	EF	F	punish	matched	1.551459
-69	run04	EF	F	reward	mismatched	1.600611
-69	run04	EF	E	punish	mismatched	1.599050
-69	run04	AB	B	punish	matched	1.597412
-69	run04	CD	D	punish	matched	1.593560
-69	run04	Miss	Miss	Miss	Miss	Miss
-69	run04	AB	B	punish	matched	1.591514
-69	run04	CD	C	reward	matched	1.605107
-69	run04	CD	C	reward	matched	1.586782
-69	run04	AB	A	reward	matched	1.584985
-69	run04	AB	B	punish	matched	1.617369
-69	run04	EF	E	reward	matched	1.582615
-69	run04	AB	A	reward	matched	1.596596
-69	run04	Miss	Miss	Miss	Miss	Miss
-69	run04	Miss	Miss	Miss	Miss	Miss
-69	run04	CD	C	punish	mismatched	1.575104
-69	run04	CD	C	reward	matched	1.608293
-69	run04	EF	F	punish	matched	1.588552
-69	run04	EF	E	punish	mismatched	1.587721
-69	run04	AB	B	punish	matched	1.602898
-69	run04	AB	A	reward	matched	1.585176
-69	run04	AB	B	reward	mismatched	1.598874
-69	run04	CD	D	punish	matched	1.596948
-69	run04	Miss	Miss	Miss	Miss	Miss
-69	run04	EF	E	reward	matched	1.609853
-69	run04	EF	E	reward	matched	1.591064
+69	run04	AB	B	1	punish	matched	1.567778
+69	run04	CD	D	2	punish	matched	1.567802
+69	run04	EF	F	1	punish	matched	1.599630
+69	run04	AB	A	2	reward	matched	1.578966

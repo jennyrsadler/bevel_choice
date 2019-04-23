@@ -1,24 +1,24 @@
-59	run02	EF	F	punish	matched	1.569167
-59	run02	EF	E	punish	mismatched	1.550588
-59	run02	EF	E	punish	mismatched	1.582239
-59	run02	EF	F	reward	mismatched	1.596845
-59	run02	EF	E	punish	mismatched	1.595659
-59	run02	AB	A	reward	matched	1.593860
-59	run02	Miss	Miss	Miss	Miss	Miss
-59	run02	EF	F	reward	mismatched	1.588782
-59	run02	CD	D	punish	matched	1.603943
-59	run02	AB	B	punish	matched	1.602893
-59	run02	CD	C	reward	matched	1.600419
-59	run02	CD	D	punish	matched	1.583126
-59	run02	EF	E	reward	matched	1.579781
-59	run02	CD	C	reward	matched	1.595326
-59	run02	CD	D	punish	matched	1.594722
-59	run02	EF	F	punish	matched	1.592481
-59	run02	Miss	Miss	Miss	Miss	Miss
-59	run02	AB	B	reward	mismatched	1.571898
-59	run02	CD	D	reward	mismatched	1.588481
-59	run02	AB	B	punish	matched	1.601484
-59	run02	EF	F	punish	matched	1.583440
-59	run02	CD	D	reward	mismatched	1.581824
-59	run02	AB	A	reward	matched	1.580305
-59	run02	Miss	Miss	Miss	Miss	Miss
+59	run02	EF	F	1	punish	matched	1.569167
+59	run02	EF	E	1	punish	mismatched	1.550588
+59	run02	EF	E	2	punish	mismatched	1.582239
+59	run02	EF	F	2	reward	mismatched	1.596845
+59	run02	EF	E	1	punish	mismatched	1.595659
+59	run02	AB	A	2	reward	matched	1.593860
+59	run02	EF	Miss	Miss	Miss	Miss	Miss
+59	run02	EF	F	2	reward	mismatched	1.588782
+59	run02	CD	D	2	punish	matched	1.603943
+59	run02	AB	B	1	punish	matched	1.602893
+59	run02	CD	C	2	reward	matched	1.600419
+59	run02	CD	D	2	punish	matched	1.583126
+59	run02	EF	E	2	reward	matched	1.579781
+59	run02	CD	C	1	reward	matched	1.595326
+59	run02	CD	D	1	punish	matched	1.594722
+59	run02	EF	F	2	punish	matched	1.592481
+59	run02	CD	Miss	Miss	Miss	Miss	Miss
+59	run02	AB	B	1	reward	mismatched	1.571898
+59	run02	CD	D	2	reward	mismatched	1.588481
+59	run02	AB	B	1	punish	matched	1.601484
+59	run02	EF	F	1	punish	matched	1.583440
+59	run02	CD	D	2	reward	mismatched	1.581824
+59	run02	AB	A	1	reward	matched	1.580305
+59	run02	AB	Miss	Miss	Miss	Miss	Miss

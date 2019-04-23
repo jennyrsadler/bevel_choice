@@ -1,26 +1,26 @@
-29	run03	AB	B	punish	matched	1.584399
-29	run03	EF	E	reward	matched	1.568729
-29	run03	CD	C	reward	matched	1.582977
-29	run03	CD	C	reward	matched	1.582116
-29	run03	AB	B	reward	mismatched	1.566165
-29	run03	AB	B	punish	matched	1.565187
-29	run03	AB	A	reward	matched	1.579426
-29	run03	Miss	Miss	Miss	Miss	Miss
-29	run03	CD	C	punish	mismatched	1.594793
-29	run03	EF	E	reward	matched	1.611242
-29	run03	CD	C	reward	matched	1.591959
-29	run03	AB	A	reward	matched	1.607241
-29	run03	EF	E	reward	matched	1.589605
-29	run03	AB	B	reward	mismatched	1.590744
-29	run03	CD	C	reward	matched	1.589642
-29	run03	EF	E	reward	matched	1.603467
-29	run03	AB	A	reward	matched	1.587129
-29	run03	CD	D	punish	matched	1.601196
-29	run03	AB	A	punish	mismatched	1.583879
-29	run03	CD	D	punish	matched	1.615419
-29	run03	AB	B	punish	matched	1.583145
-29	run03	CD	D	punish	matched	1.599011
-29	run03	Miss	Miss	Miss	Miss	Miss
-29	run03	Miss	Miss	Miss	Miss	Miss
-29	run03	Miss	Miss	Miss	Miss	Miss
-29	run03	EF	F	punish	matched	1.592833
+29	run03	AB	B	2	punish	matched	1.584399
+29	run03	EF	E	1	reward	matched	1.568729
+29	run03	CD	C	1	reward	matched	1.582977
+29	run03	CD	C	1	reward	matched	1.582116
+29	run03	AB	B	2	reward	mismatched	1.566165
+29	run03	AB	B	2	punish	matched	1.565187
+29	run03	AB	A	2	reward	matched	1.579426
+29	run03	AB	Miss	Miss	Miss	Miss	Miss
+29	run03	CD	C	2	punish	mismatched	1.594793
+29	run03	EF	E	2	reward	matched	1.611242
+29	run03	CD	C	1	reward	matched	1.591959
+29	run03	AB	A	2	reward	matched	1.607241
+29	run03	EF	E	1	reward	matched	1.589605
+29	run03	AB	B	2	reward	mismatched	1.590744
+29	run03	CD	C	2	reward	matched	1.589642
+29	run03	EF	E	1	reward	matched	1.603467
+29	run03	AB	A	1	reward	matched	1.587129
+29	run03	CD	D	2	punish	matched	1.601196
+29	run03	AB	A	2	punish	mismatched	1.583879
+29	run03	CD	D	1	punish	matched	1.615419
+29	run03	AB	B	2	punish	matched	1.583145
+29	run03	CD	D	1	punish	matched	1.599011
+29	run03	CD	Miss	Miss	Miss	Miss	Miss
+29	run03	EF	Miss	Miss	Miss	Miss	Miss
+29	run03	AB	Miss	Miss	Miss	Miss	Miss
+29	run03	EF	F	2	punish	matched	1.592833

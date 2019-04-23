@@ -1,26 +1,26 @@
-28	run03	CD	C	reward	matched	1.568060
-28	run03	CD	D	punish	matched	1.568744
-28	run03	CD	D	punish	matched	1.566348
-28	run03	AB	B	punish	matched	1.565528
-28	run03	AB	B	punish	matched	1.566329
-28	run03	AB	A	reward	matched	1.582263
-28	run03	AB	A	reward	matched	1.579318
-28	run03	EF	E	reward	matched	1.561791
-28	run03	EF	F	reward	mismatched	1.579423
-28	run03	AB	B	punish	matched	1.577803
-28	run03	CD	D	reward	mismatched	1.575350
-28	run03	CD	C	reward	matched	1.559171
-28	run03	CD	D	punish	matched	1.573082
-28	run03	EF	F	punish	matched	1.573835
-28	run03	CD	D	punish	matched	1.573071
-28	run03	EF	E	punish	mismatched	1.572149
-28	run03	AB	B	reward	mismatched	1.553908
-28	run03	EF	F	reward	mismatched	1.567690
-28	run03	CD	C	reward	matched	1.585347
-28	run03	EF	E	punish	mismatched	1.581969
-28	run03	AB	B	punish	matched	1.583687
-28	run03	CD	C	reward	matched	1.582534
-28	run03	EF	E	reward	matched	1.579775
-28	run03	EF	E	punish	mismatched	1.561664
-28	run03	EF	F	punish	matched	1.577636
-28	run03	EF	F	reward	mismatched	1.576800
+28	run03	CD	C	2	reward	matched	1.568060
+28	run03	CD	D	2	punish	matched	1.568744
+28	run03	CD	D	2	punish	matched	1.566348
+28	run03	AB	B	2	punish	matched	1.565528
+28	run03	AB	B	1	punish	matched	1.566329
+28	run03	AB	A	1	reward	matched	1.582263
+28	run03	AB	A	2	reward	matched	1.579318
+28	run03	EF	E	2	reward	matched	1.561791
+28	run03	EF	F	2	reward	mismatched	1.579423
+28	run03	AB	B	1	punish	matched	1.577803
+28	run03	CD	D	2	reward	mismatched	1.575350
+28	run03	CD	C	2	reward	matched	1.559171
+28	run03	CD	D	2	punish	matched	1.573082
+28	run03	EF	F	1	punish	matched	1.573835
+28	run03	CD	D	2	punish	matched	1.573071
+28	run03	EF	E	2	punish	mismatched	1.572149
+28	run03	AB	B	1	reward	mismatched	1.553908
+28	run03	EF	F	1	reward	mismatched	1.567690
+28	run03	CD	C	1	reward	matched	1.585347
+28	run03	EF	E	2	punish	mismatched	1.581969
+28	run03	AB	B	1	punish	matched	1.583687
+28	run03	CD	C	1	reward	matched	1.582534
+28	run03	EF	E	2	reward	matched	1.579775
+28	run03	EF	E	2	punish	mismatched	1.561664
+28	run03	EF	F	1	punish	matched	1.577636
+28	run03	EF	F	1	reward	mismatched	1.576800

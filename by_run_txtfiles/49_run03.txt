@@ -1,14 +1,14 @@
-49	run03	EF	E	reward	matched	1.567940
-49	run03	AB	A	punish	mismatched	1.568257
-49	run03	AB	A	reward	matched	1.599091
-49	run03	Miss	Miss	Miss	Miss	Miss
-49	run03	EF	F	punish	matched	1.582526
-49	run03	AB	A	reward	matched	1.596935
-49	run03	EF	E	reward	matched	1.596079
-49	run03	EF	F	punish	matched	1.578752
-49	run03	AB	B	reward	mismatched	1.577446
-49	run03	EF	E	reward	matched	1.593438
-49	run03	AB	B	punish	matched	1.590820
-49	run03	AB	B	punish	matched	1.591133
-49	run03	AB	B	punish	matched	1.590239
-49	run03	Miss	Miss	Miss	Miss	Miss
+49	run03	EF	E	1	reward	matched	1.567940
+49	run03	AB	A	1	punish	mismatched	1.568257
+49	run03	AB	A	2	reward	matched	1.599091
+49	run03	EF	Miss	Miss	Miss	Miss	Miss
+49	run03	EF	F	1	punish	matched	1.582526
+49	run03	AB	A	2	reward	matched	1.596935
+49	run03	EF	E	2	reward	matched	1.596079
+49	run03	EF	F	2	punish	matched	1.578752
+49	run03	AB	B	2	reward	mismatched	1.577446
+49	run03	EF	E	1	reward	matched	1.593438
+49	run03	AB	B	1	punish	matched	1.590820
+49	run03	AB	B	2	punish	matched	1.591133
+49	run03	AB	B	2	punish	matched	1.590239
+49	run03	CD	Miss	Miss	Miss	Miss	Miss

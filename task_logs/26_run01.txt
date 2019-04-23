@@ -1,26 +1,26 @@
-26	run01	Miss	Miss	Miss	Miss	Miss
-26	run01	CD	D	punish	matched	1.585574
-26	run01	CD	D	punish	matched	1.584735
-26	run01	EF	F	punish	matched	1.566846
-26	run01	CD	C	reward	matched	1.599774
-26	run01	CD	D	reward	mismatched	1.565208
-26	run01	CD	D	punish	matched	1.580401
-26	run01	CD	D	punish	matched	1.579915
-26	run01	Miss	Miss	Miss	Miss	Miss
-26	run01	AB	B	punish	matched	1.575878
-26	run01	AB	A	reward	matched	1.577079
-26	run01	AB	B	punish	matched	1.592890
-26	run01	Miss	Miss	Miss	Miss	Miss
-26	run01	CD	D	punish	matched	1.590628
-26	run01	EF	E	punish	mismatched	1.589607
-26	run01	AB	B	punish	matched	1.589046
-26	run01	CD	C	reward	matched	1.604158
-26	run01	EF	E	punish	mismatched	1.570054
-26	run01	CD	C	reward	matched	1.600716
-26	run01	Miss	Miss	Miss	Miss	Miss
-26	run01	CD	D	punish	matched	1.615123
-26	run01	AB	B	reward	mismatched	1.599583
-26	run01	CD	C	reward	matched	1.614107
-26	run01	CD	D	punish	matched	1.596839
-26	run01	AB	A	reward	matched	1.611932
-26	run01	CD	C	reward	matched	1.593090
+26	run01	CD	Miss	Miss	Miss	Miss	Miss
+26	run01	CD	D	1	punish	matched	1.585574
+26	run01	CD	D	2	punish	matched	1.584735
+26	run01	EF	F	1	punish	matched	1.566846
+26	run01	CD	C	1	reward	matched	1.599774
+26	run01	CD	D	2	reward	mismatched	1.565208
+26	run01	CD	D	1	punish	matched	1.580401
+26	run01	CD	D	2	punish	matched	1.579915
+26	run01	AB	Miss	Miss	Miss	Miss	Miss
+26	run01	AB	B	2	punish	matched	1.575878
+26	run01	AB	A	1	reward	matched	1.577079
+26	run01	AB	B	2	punish	matched	1.592890
+26	run01	AB	Miss	Miss	Miss	Miss	Miss
+26	run01	CD	D	1	punish	matched	1.590628
+26	run01	EF	E	2	punish	mismatched	1.589607
+26	run01	AB	B	1	punish	matched	1.589046
+26	run01	CD	C	2	reward	matched	1.604158
+26	run01	EF	E	2	punish	mismatched	1.570054
+26	run01	CD	C	2	reward	matched	1.600716
+26	run01	EF	Miss	Miss	Miss	Miss	Miss
+26	run01	CD	D	2	punish	matched	1.615123
+26	run01	AB	B	2	reward	mismatched	1.599583
+26	run01	CD	C	1	reward	matched	1.614107
+26	run01	CD	D	2	punish	matched	1.596839
+26	run01	AB	A	1	reward	matched	1.611932
+26	run01	CD	C	1	reward	matched	1.593090

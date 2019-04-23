@@ -1,26 +1,26 @@
-32	run04	EF	E	punish	mismatched	1.568272
-32	run04	AB	B	reward	mismatched	1.599619
-32	run04	EF	F	reward	mismatched	1.600043
-32	run04	EF	F	reward	mismatched	1.616175
-32	run04	CD	C	reward	matched	1.596474
-32	run04	EF	F	punish	matched	1.579140
-32	run04	CD	C	reward	matched	1.595980
-32	run04	CD	C	reward	matched	1.593362
-32	run04	CD	D	reward	mismatched	1.592641
-32	run04	CD	C	reward	matched	1.591517
-32	run04	CD	D	punish	matched	1.591698
-32	run04	CD	D	punish	matched	1.573101
-32	run04	EF	F	reward	mismatched	1.572012
-32	run04	CD	D	punish	matched	1.587263
-32	run04	AB	A	reward	matched	1.569937
-32	run04	AB	A	reward	matched	1.602474
-32	run04	EF	F	punish	matched	1.585977
-32	run04	CD	C	punish	mismatched	1.600255
-32	run04	AB	B	punish	matched	1.583360
-32	run04	CD	D	punish	matched	1.599649
-32	run04	CD	C	reward	matched	1.598709
-32	run04	AB	B	punish	matched	1.597967
-32	run04	CD	D	reward	mismatched	1.596063
-32	run04	CD	D	reward	mismatched	1.594265
-32	run04	EF	E	reward	matched	1.576765
-32	run04	EF	F	punish	matched	1.592344
+32	run04	EF	E	1	punish	mismatched	1.568272
+32	run04	AB	B	1	reward	mismatched	1.599619
+32	run04	EF	F	1	reward	mismatched	1.600043
+32	run04	EF	F	1	reward	mismatched	1.616175
+32	run04	CD	C	1	reward	matched	1.596474
+32	run04	EF	F	1	punish	matched	1.579140
+32	run04	CD	C	2	reward	matched	1.595980
+32	run04	CD	C	2	reward	matched	1.593362
+32	run04	CD	D	1	reward	mismatched	1.592641
+32	run04	CD	C	2	reward	matched	1.591517
+32	run04	CD	D	1	punish	matched	1.591698
+32	run04	CD	D	2	punish	matched	1.573101
+32	run04	EF	F	1	reward	mismatched	1.572012
+32	run04	CD	D	1	punish	matched	1.587263
+32	run04	AB	A	1	reward	matched	1.569937
+32	run04	AB	A	2	reward	matched	1.602474
+32	run04	EF	F	1	punish	matched	1.585977
+32	run04	CD	C	1	punish	mismatched	1.600255
+32	run04	AB	B	2	punish	matched	1.583360
+32	run04	CD	D	1	punish	matched	1.599649
+32	run04	CD	C	2	reward	matched	1.598709
+32	run04	AB	B	2	punish	matched	1.597967
+32	run04	CD	D	1	reward	mismatched	1.596063
+32	run04	CD	D	1	reward	mismatched	1.594265
+32	run04	EF	E	2	reward	matched	1.576765
+32	run04	EF	F	2	punish	matched	1.592344

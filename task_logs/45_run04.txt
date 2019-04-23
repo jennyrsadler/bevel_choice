@@ -1,26 +1,26 @@
-45	run04	AB	A	reward	matched	1.568203
-45	run04	AB	A	reward	matched	1.583208
-45	run04	AB	A	reward	matched	1.567129
-45	run04	AB	B	punish	matched	1.598028
-45	run04	CD	D	punish	matched	1.596622
-45	run04	Miss	Miss	Miss	Miss	Miss
-45	run04	AB	B	punish	matched	1.612544
-45	run04	EF	F	punish	matched	1.577247
-45	run04	EF	F	reward	mismatched	1.576000
-45	run04	AB	A	reward	matched	1.591716
-45	run04	CD	C	reward	matched	1.608256
-45	run04	AB	A	reward	matched	1.606365
-45	run04	CD	C	reward	matched	1.605593
-45	run04	EF	E	punish	mismatched	1.587455
-45	run04	CD	D	punish	matched	1.620039
-45	run04	CD	C	reward	matched	1.602338
-45	run04	EF	F	reward	mismatched	1.586188
-45	run04	AB	B	punish	matched	1.600468
-45	run04	CD	C	reward	matched	1.600046
-45	run04	AB	B	punish	matched	1.599385
-45	run04	EF	E	reward	matched	1.598784
-45	run04	EF	E	punish	mismatched	1.597406
-45	run04	AB	A	reward	matched	1.613071
-45	run04	EF	E	punish	mismatched	1.577857
-45	run04	EF	E	punish	mismatched	1.593384
-45	run04	EF	E	reward	matched	1.592347
+45	run04	EF	E	1	reward	matched	1.567874
+45	run04	AB	A	2	reward	matched	1.600000
+45	run04	CD	D	1	punish	matched	1.600477
+45	run04	AB	A	1	reward	matched	1.598603
+45	run04	AB	A	2	reward	matched	1.596576
+45	run04	EF	E	1	reward	matched	1.596158
+45	run04	EF	E	1	punish	mismatched	1.596354
+45	run04	CD	C	2	punish	mismatched	1.610065
+45	run04	AB	B	1	punish	matched	1.592954
+45	run04	EF	F	1	reward	mismatched	1.591518
+45	run04	CD	C	1	punish	mismatched	1.592072
+45	run04	EF	F	1	reward	mismatched	1.573044
+45	run04	EF	F	2	punish	matched	1.588742
+45	run04	EF	E	1	punish	mismatched	1.587253
+45	run04	AB	A	2	reward	matched	1.603459
+45	run04	CD	C	2	punish	mismatched	1.602275
+45	run04	AB	B	1	punish	matched	1.602745
+45	run04	CD	C	2	reward	matched	1.600728
+45	run04	CD	C	1	punish	mismatched	1.600193
+45	run04	AB	B	1	punish	matched	1.583346
+45	run04	CD	C	2	reward	matched	1.581808
+45	run04	AB	B	2	punish	matched	1.597871
+45	run04	EF	F	2	punish	matched	1.596852
+45	run04	EF	E	2	reward	matched	1.594501
+45	run04	EF	Miss	Miss	Miss	Miss	Miss
+45	run04	AB	B	1	punish	matched	1.575631

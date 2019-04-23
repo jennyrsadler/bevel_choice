@@ -1,26 +1,26 @@
-24	run03	CD	C	punish	mismatched	1.584547
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	AB	A	reward	matched	1.582404
-24	run03	EF	F	reward	mismatched	1.597871
-24	run03	AB	A	reward	matched	1.595531
-24	run03	EF	E	punish	mismatched	1.611119
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	AB	B	punish	matched	1.593492
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	CD	D	punish	matched	1.607788
-24	run03	CD	D	punish	matched	1.622564
-24	run03	CD	D	punish	matched	1.623192
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	CD	C	reward	matched	1.615166
-24	run03	AB	B	punish	matched	1.579120
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	Miss	Miss	Miss	Miss	Miss
-24	run03	AB	A	reward	matched	1.592782
+24	run03	CD	C	1	punish	mismatched	1.584547
+24	run03	CD	Miss	Miss	Miss	Miss	Miss
+24	run03	CD	Miss	Miss	Miss	Miss	Miss
+24	run03	CD	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	A	1	reward	matched	1.582404
+24	run03	EF	F	1	reward	mismatched	1.597871
+24	run03	AB	A	1	reward	matched	1.595531
+24	run03	EF	E	1	punish	mismatched	1.611119
+24	run03	AB	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	B	1	punish	matched	1.593492
+24	run03	EF	Miss	Miss	Miss	Miss	Miss
+24	run03	CD	D	1	punish	matched	1.607788
+24	run03	CD	D	1	punish	matched	1.622564
+24	run03	CD	D	1	punish	matched	1.623192
+24	run03	CD	Miss	Miss	Miss	Miss	Miss
+24	run03	EF	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	Miss	Miss	Miss	Miss	Miss
+24	run03	EF	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	Miss	Miss	Miss	Miss	Miss
+24	run03	CD	C	1	reward	matched	1.615166
+24	run03	AB	B	1	punish	matched	1.579120
+24	run03	AB	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	Miss	Miss	Miss	Miss	Miss
+24	run03	AB	A	1	reward	matched	1.592782

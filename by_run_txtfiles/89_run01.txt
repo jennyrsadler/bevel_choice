@@ -1,26 +1,26 @@
-89	run01	Miss	Miss	Miss	Miss	Miss
-89	run01	CD	D	punish	matched	1.600346
-89	run01	CD	D	punish	matched	1.598815
-89	run01	AB	A	reward	matched	1.613505
-89	run01	AB	A	reward	matched	1.594291
-89	run01	CD	D	punish	matched	1.610222
-89	run01	CD	D	punish	matched	1.624839
-89	run01	AB	B	punish	matched	1.606645
-89	run01	CD	D	punish	matched	1.605696
-89	run01	AB	A	reward	matched	1.602395
-89	run01	AB	B	reward	mismatched	1.603677
-89	run01	CD	D	punish	matched	1.616136
-89	run01	CD	C	punish	mismatched	1.598510
-89	run01	AB	A	reward	matched	1.612770
-89	run01	EF	E	reward	matched	1.612461
-89	run01	EF	F	punish	matched	1.609866
-89	run01	CD	C	reward	matched	1.591679
-89	run01	CD	C	punish	mismatched	1.606865
-89	run01	AB	A	punish	mismatched	1.587469
-89	run01	AB	B	punish	matched	1.602994
-89	run01	EF	F	punish	matched	1.600891
-89	run01	EF	E	reward	matched	1.600371
-89	run01	EF	F	punish	matched	1.616129
-89	run01	AB	B	punish	matched	1.613721
-89	run01	AB	A	punish	mismatched	1.577597
-89	run01	EF	F	reward	mismatched	1.592191
+89	run01	CD	Miss	Miss	Miss	Miss	Miss
+89	run01	CD	D	2	punish	matched	1.600346
+89	run01	CD	D	2	punish	matched	1.598815
+89	run01	AB	A	2	reward	matched	1.613505
+89	run01	AB	A	1	reward	matched	1.594291
+89	run01	CD	D	1	punish	matched	1.610222
+89	run01	CD	D	1	punish	matched	1.624839
+89	run01	AB	B	1	punish	matched	1.606645
+89	run01	CD	D	2	punish	matched	1.605696
+89	run01	AB	A	2	reward	matched	1.602395
+89	run01	AB	B	1	reward	mismatched	1.603677
+89	run01	CD	D	2	punish	matched	1.616136
+89	run01	CD	C	1	punish	mismatched	1.598510
+89	run01	AB	A	1	reward	matched	1.612770
+89	run01	EF	E	2	reward	matched	1.612461
+89	run01	EF	F	1	punish	matched	1.609866
+89	run01	CD	C	2	reward	matched	1.591679
+89	run01	CD	C	1	punish	mismatched	1.606865
+89	run01	AB	A	1	punish	mismatched	1.587469
+89	run01	AB	B	2	punish	matched	1.602994
+89	run01	EF	F	1	punish	matched	1.600891
+89	run01	EF	E	2	reward	matched	1.600371
+89	run01	EF	F	1	punish	matched	1.616129
+89	run01	AB	B	2	punish	matched	1.613721
+89	run01	AB	A	1	punish	mismatched	1.577597
+89	run01	EF	F	2	reward	mismatched	1.592191

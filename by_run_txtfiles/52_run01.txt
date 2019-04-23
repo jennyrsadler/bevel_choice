@@ -1,26 +1,26 @@
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	EF	F	punish	matched	1.567599
-52	run01	EF	E	reward	matched	1.565469
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	EF	E	reward	matched	1.589138
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	AB	A	punish	mismatched	1.565761
-52	run01	AB	B	reward	mismatched	1.566736
-52	run01	EF	F	punish	matched	1.596435
-52	run01	EF	E	reward	matched	1.563199
-52	run01	EF	F	reward	mismatched	1.575717
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	AB	B	punish	matched	1.573594
-52	run01	Miss	Miss	Miss	Miss	Miss
-52	run01	CD	D	punish	matched	1.602989
-52	run01	EF	F	punish	matched	1.567354
-52	run01	EF	F	punish	matched	1.584646
-52	run01	AB	A	punish	mismatched	1.598427
-52	run01	EF	E	punish	mismatched	1.580080
-52	run01	AB	A	reward	matched	1.578204
-52	run01	CD	D	reward	mismatched	1.577940
+52	run01	EF	Miss	Miss	Miss	Miss	Miss
+52	run01	EF	F	1	punish	matched	1.567599
+52	run01	EF	E	2	reward	matched	1.565469
+52	run01	AB	Miss	Miss	Miss	Miss	Miss
+52	run01	CD	Miss	Miss	Miss	Miss	Miss
+52	run01	CD	Miss	Miss	Miss	Miss	Miss
+52	run01	EF	Miss	Miss	Miss	Miss	Miss
+52	run01	EF	E	2	reward	matched	1.589138
+52	run01	EF	Miss	Miss	Miss	Miss	Miss
+52	run01	EF	Miss	Miss	Miss	Miss	Miss
+52	run01	AB	Miss	Miss	Miss	Miss	Miss
+52	run01	AB	A	1	punish	mismatched	1.565761
+52	run01	AB	B	1	reward	mismatched	1.566736
+52	run01	EF	F	1	punish	matched	1.596435
+52	run01	EF	E	2	reward	matched	1.563199
+52	run01	EF	F	2	reward	mismatched	1.575717
+52	run01	AB	Miss	Miss	Miss	Miss	Miss
+52	run01	AB	B	1	punish	matched	1.573594
+52	run01	EF	Miss	Miss	Miss	Miss	Miss
+52	run01	CD	D	2	punish	matched	1.602989
+52	run01	EF	F	1	punish	matched	1.567354
+52	run01	EF	F	1	punish	matched	1.584646
+52	run01	AB	A	1	punish	mismatched	1.598427
+52	run01	EF	E	2	punish	mismatched	1.580080
+52	run01	AB	A	1	reward	matched	1.578204
+52	run01	CD	D	1	reward	mismatched	1.577940

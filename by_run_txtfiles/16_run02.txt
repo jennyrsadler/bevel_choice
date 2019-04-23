@@ -1,26 +1,26 @@
-16	run02	CD	C	punish	mismatched	1.605516
-16	run02	CD	D	punish	matched	1.622438
-16	run02	CD	D	reward	mismatched	1.618849
-16	run02	CD	C	reward	matched	1.591672
-16	run02	AB	A	reward	matched	1.566917
-16	run02	CD	C	reward	matched	1.584221
-16	run02	EF	F	reward	mismatched	1.597250
-16	run02	CD	C	reward	matched	1.601278
-16	run02	EF	F	reward	mismatched	1.579440
-16	run02	EF	E	reward	matched	1.581836
-16	run02	AB	B	punish	matched	1.594997
-16	run02	EF	F	reward	mismatched	1.576975
-16	run02	EF	F	reward	mismatched	1.577115
-16	run02	AB	B	punish	matched	1.600655
-16	run02	CD	D	reward	mismatched	1.578941
-16	run02	Miss	Miss	Miss	Miss	Miss
-16	run02	EF	E	punish	mismatched	1.588150
-16	run02	AB	A	punish	mismatched	1.588947
-16	run02	AB	B	punish	matched	1.586495
-16	run02	CD	D	punish	matched	1.586432
-16	run02	CD	C	reward	matched	1.603817
-16	run02	CD	D	reward	mismatched	1.608415
-16	run02	AB	B	punish	matched	1.584087
-16	run02	AB	A	reward	matched	1.600638
-16	run02	AB	A	reward	matched	1.582603
-16	run02	EF	E	reward	matched	1.582762
+16	run02	CD	C	1	punish	mismatched	1.605516
+16	run02	CD	D	1	punish	matched	1.622438
+16	run02	CD	D	2	reward	mismatched	1.618849
+16	run02	CD	C	2	reward	matched	1.591672
+16	run02	AB	A	1	reward	matched	1.566917
+16	run02	CD	C	2	reward	matched	1.584221
+16	run02	EF	F	2	reward	mismatched	1.597250
+16	run02	CD	C	1	reward	matched	1.601278
+16	run02	EF	F	1	reward	mismatched	1.579440
+16	run02	EF	E	1	reward	matched	1.581836
+16	run02	AB	B	2	punish	matched	1.594997
+16	run02	EF	F	1	reward	mismatched	1.576975
+16	run02	EF	F	2	reward	mismatched	1.577115
+16	run02	AB	B	1	punish	matched	1.600655
+16	run02	CD	D	1	reward	mismatched	1.578941
+16	run02	AB	Miss	Miss	Miss	Miss	Miss
+16	run02	EF	E	1	punish	mismatched	1.588150
+16	run02	AB	A	1	punish	mismatched	1.588947
+16	run02	AB	B	2	punish	matched	1.586495
+16	run02	CD	D	2	punish	matched	1.586432
+16	run02	CD	C	2	reward	matched	1.603817
+16	run02	CD	D	2	reward	mismatched	1.608415
+16	run02	AB	B	1	punish	matched	1.584087
+16	run02	AB	A	2	reward	matched	1.600638
+16	run02	AB	A	1	reward	matched	1.582603
+16	run02	EF	E	1	reward	matched	1.582762

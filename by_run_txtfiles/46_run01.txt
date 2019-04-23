@@ -1,26 +1,26 @@
-46	run01	Miss	Miss	Miss	Miss	Miss
-46	run01	CD	D	reward	mismatched	1.617347
-46	run01	CD	D	punish	matched	1.600028
-46	run01	AB	A	punish	mismatched	1.615621
-46	run01	AB	A	reward	matched	1.630295
-46	run01	CD	C	punish	mismatched	1.613822
-46	run01	AB	B	punish	matched	1.612573
-46	run01	CD	D	punish	matched	1.610894
-46	run01	CD	D	punish	matched	1.627458
-46	run01	EF	F	punish	matched	1.608795
-46	run01	EF	F	punish	matched	1.609199
-46	run01	AB	A	punish	mismatched	1.590339
-46	run01	EF	E	reward	matched	1.607008
-46	run01	AB	B	punish	matched	1.606215
-46	run01	Miss	Miss	Miss	Miss	Miss
-46	run01	CD	C	reward	matched	1.603116
-46	run01	Miss	Miss	Miss	Miss	Miss
-46	run01	EF	E	reward	matched	1.618887
-46	run01	CD	D	punish	matched	1.616563
-46	run01	EF	F	reward	mismatched	1.616392
-46	run01	CD	C	reward	matched	1.615994
-46	run01	EF	E	punish	mismatched	1.631611
-46	run01	EF	F	punish	matched	1.597938
-46	run01	CD	D	punish	matched	1.630222
-46	run01	EF	F	reward	mismatched	1.611018
-46	run01	Miss	Miss	Miss	Miss	Miss
+46	run01	AB	Miss	Miss	Miss	Miss	Miss
+46	run01	CD	D	1	reward	mismatched	1.617347
+46	run01	CD	D	2	punish	matched	1.600028
+46	run01	AB	A	1	punish	mismatched	1.615621
+46	run01	AB	A	2	reward	matched	1.630295
+46	run01	CD	C	1	punish	mismatched	1.613822
+46	run01	AB	B	2	punish	matched	1.612573
+46	run01	CD	D	1	punish	matched	1.610894
+46	run01	CD	D	1	punish	matched	1.627458
+46	run01	EF	F	1	punish	matched	1.608795
+46	run01	EF	F	1	punish	matched	1.609199
+46	run01	AB	A	2	punish	mismatched	1.590339
+46	run01	EF	E	1	reward	matched	1.607008
+46	run01	AB	B	2	punish	matched	1.606215
+46	run01	EF	Miss	Miss	Miss	Miss	Miss
+46	run01	CD	C	1	reward	matched	1.603116
+46	run01	EF	Miss	Miss	Miss	Miss	Miss
+46	run01	EF	E	2	reward	matched	1.618887
+46	run01	CD	D	1	punish	matched	1.616563
+46	run01	EF	F	2	reward	mismatched	1.616392
+46	run01	CD	C	1	reward	matched	1.615994
+46	run01	EF	E	2	punish	mismatched	1.631611
+46	run01	EF	F	2	punish	matched	1.597938
+46	run01	CD	D	1	punish	matched	1.630222
+46	run01	EF	F	1	reward	mismatched	1.611018
+46	run01	EF	Miss	Miss	Miss	Miss	Miss

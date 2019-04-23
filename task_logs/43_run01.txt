@@ -1,26 +1,26 @@
-43	run01	Miss	Miss	Miss	Miss	Miss
-43	run01	EF	E	reward	matched	1.600633
-43	run01	AB	A	reward	matched	1.599802
-43	run01	CD	C	reward	matched	1.632403
-43	run01	EF	E	punish	mismatched	1.596666
-43	run01	CD	D	punish	matched	1.596914
-43	run01	CD	C	punish	mismatched	1.612627
-43	run01	EF	F	punish	matched	1.594793
-43	run01	AB	A	reward	matched	1.593766
-43	run01	AB	A	reward	matched	1.608566
-43	run01	EF	E	reward	matched	1.609187
-43	run01	EF	E	reward	matched	1.623640
-43	run01	EF	F	reward	mismatched	1.590313
-43	run01	EF	E	reward	matched	1.588185
-43	run01	CD	C	reward	matched	1.604814
-43	run01	CD	D	reward	mismatched	1.602757
-43	run01	EF	F	punish	matched	1.602759
-43	run01	AB	A	reward	matched	1.601579
-43	run01	AB	A	reward	matched	1.599614
-43	run01	EF	E	punish	mismatched	1.599615
-43	run01	AB	B	punish	matched	1.597613
-43	run01	CD	C	punish	mismatched	1.614632
-43	run01	CD	D	punish	matched	1.597057
-43	run01	EF	E	reward	matched	1.612592
-43	run01	EF	E	punish	mismatched	1.610545
-43	run01	EF	E	punish	mismatched	1.592849
+43	run01	CD	Miss	Miss	Miss	Miss	Miss
+43	run01	EF	E	1	reward	matched	1.600633
+43	run01	AB	A	1	reward	matched	1.599802
+43	run01	CD	C	2	reward	matched	1.632403
+43	run01	EF	E	2	punish	mismatched	1.596666
+43	run01	CD	D	1	punish	matched	1.596914
+43	run01	CD	C	2	punish	mismatched	1.612627
+43	run01	EF	F	2	punish	matched	1.594793
+43	run01	AB	A	2	reward	matched	1.593766
+43	run01	AB	A	2	reward	matched	1.608566
+43	run01	EF	E	1	reward	matched	1.609187
+43	run01	EF	E	2	reward	matched	1.623640
+43	run01	EF	F	1	reward	mismatched	1.590313
+43	run01	EF	E	2	reward	matched	1.588185
+43	run01	CD	C	1	reward	matched	1.604814
+43	run01	CD	D	2	reward	mismatched	1.602757
+43	run01	EF	F	1	punish	matched	1.602759
+43	run01	AB	A	2	reward	matched	1.601579
+43	run01	AB	A	1	reward	matched	1.599614
+43	run01	EF	E	2	punish	mismatched	1.599615
+43	run01	AB	B	1	punish	matched	1.597613
+43	run01	CD	C	1	punish	mismatched	1.614632
+43	run01	CD	D	2	punish	matched	1.597057
+43	run01	EF	E	1	reward	matched	1.612592
+43	run01	EF	E	2	punish	mismatched	1.610545
+43	run01	EF	E	1	punish	mismatched	1.592849

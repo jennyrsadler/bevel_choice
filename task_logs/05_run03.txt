@@ -1,26 +1,26 @@
-05	run03	EF	E	punish	mismatched	1.559797
-05	run03	EF	F	punish	matched	1.586657
-05	run03	EF	F	punish	matched	1.589062
-05	run03	AB	A	reward	matched	1.585159
-05	run03	CD	C	reward	matched	1.581714
-05	run03	EF	F	reward	mismatched	1.587426
-05	run03	EF	F	reward	mismatched	1.598803
-05	run03	EF	F	punish	matched	1.581132
-05	run03	EF	F	punish	matched	1.578903
-05	run03	AB	A	punish	mismatched	1.580170
-05	run03	EF	E	punish	mismatched	1.590319
-05	run03	AB	A	reward	matched	1.593439
-05	run03	CD	C	reward	matched	1.609158
-05	run03	AB	B	reward	mismatched	1.593587
-05	run03	CD	C	reward	matched	1.589257
-05	run03	AB	A	reward	matched	1.589642
-05	run03	CD	D	reward	mismatched	1.587010
-05	run03	EF	E	reward	matched	1.587299
-05	run03	EF	E	reward	matched	1.601343
-05	run03	CD	C	reward	matched	1.599698
-05	run03	EF	F	reward	mismatched	1.591443
-05	run03	EF	E	reward	matched	1.599330
-05	run03	EF	F	punish	matched	1.581183
-05	run03	AB	A	reward	matched	1.580912
-05	run03	CD	D	punish	matched	1.601953
-05	run03	Miss	Miss	Miss	Miss	Miss
+05	run03	EF	E	2	punish	mismatched	1.559797
+05	run03	EF	F	1	punish	matched	1.586657
+05	run03	EF	F	2	punish	matched	1.589062
+05	run03	AB	A	2	reward	matched	1.585159
+05	run03	CD	C	1	reward	matched	1.581714
+05	run03	EF	F	2	reward	mismatched	1.587426
+05	run03	EF	F	2	reward	mismatched	1.598803
+05	run03	EF	F	2	punish	matched	1.581132
+05	run03	EF	F	1	punish	matched	1.578903
+05	run03	AB	A	2	punish	mismatched	1.580170
+05	run03	EF	E	2	punish	mismatched	1.590319
+05	run03	AB	A	1	reward	matched	1.593439
+05	run03	CD	C	1	reward	matched	1.609158
+05	run03	AB	B	1	reward	mismatched	1.593587
+05	run03	CD	C	1	reward	matched	1.589257
+05	run03	AB	A	1	reward	matched	1.589642
+05	run03	CD	D	1	reward	mismatched	1.587010
+05	run03	EF	E	1	reward	matched	1.587299
+05	run03	EF	E	1	reward	matched	1.601343
+05	run03	CD	C	2	reward	matched	1.599698
+05	run03	EF	F	1	reward	mismatched	1.591443
+05	run03	EF	E	2	reward	matched	1.599330
+05	run03	EF	F	1	punish	matched	1.581183
+05	run03	AB	A	2	reward	matched	1.580912
+05	run03	CD	D	1	punish	matched	1.601953
+05	run03	AB	Miss	Miss	Miss	Miss	Miss

@@ -1,26 +1,26 @@
-45	run03	CD	C	reward	matched	1.585116
-45	run03	AB	B	punish	matched	1.600730
-45	run03	AB	B	punish	matched	1.599507
-45	run03	CD	D	reward	mismatched	1.598272
-45	run03	CD	C	reward	matched	1.581713
-45	run03	CD	D	reward	mismatched	1.597353
-45	run03	CD	C	reward	matched	1.595506
-45	run03	AB	B	punish	matched	1.595522
-45	run03	CD	C	reward	matched	1.578469
-45	run03	EF	F	punish	matched	1.593430
-45	run03	CD	D	punish	matched	1.592421
-45	run03	CD	D	punish	matched	1.590780
-45	run03	CD	C	punish	mismatched	1.589140
-45	run03	Miss	Miss	Miss	Miss	Miss
-45	run03	EF	E	reward	matched	1.571619
-45	run03	AB	A	reward	matched	1.586370
-45	run03	EF	E	punish	mismatched	1.602398
-45	run03	CD	C	reward	matched	1.584192
-45	run03	AB	B	punish	matched	1.583862
-45	run03	CD	D	punish	matched	1.582047
-45	run03	EF	F	punish	matched	1.599282
-45	run03	AB	B	punish	matched	1.598050
-45	run03	AB	A	reward	matched	1.578972
-45	run03	EF	F	reward	mismatched	1.596933
-45	run03	EF	F	punish	matched	1.593750
-45	run03	Miss	Miss	Miss	Miss	Miss
+45	run03	CD	C	1	reward	matched	1.585116
+45	run03	AB	B	2	punish	matched	1.600730
+45	run03	AB	B	1	punish	matched	1.599507
+45	run03	CD	D	2	reward	mismatched	1.598272
+45	run03	CD	C	1	reward	matched	1.581713
+45	run03	CD	D	1	reward	mismatched	1.597353
+45	run03	CD	C	2	reward	matched	1.595506
+45	run03	AB	B	1	punish	matched	1.595522
+45	run03	CD	C	2	reward	matched	1.578469
+45	run03	EF	F	1	punish	matched	1.593430
+45	run03	CD	D	1	punish	matched	1.592421
+45	run03	CD	D	2	punish	matched	1.590780
+45	run03	CD	C	1	punish	mismatched	1.589140
+45	run03	CD	Miss	Miss	Miss	Miss	Miss
+45	run03	EF	E	2	reward	matched	1.571619
+45	run03	AB	A	1	reward	matched	1.586370
+45	run03	EF	E	1	punish	mismatched	1.602398
+45	run03	CD	C	2	reward	matched	1.584192
+45	run03	AB	B	1	punish	matched	1.583862
+45	run03	CD	D	2	punish	matched	1.582047
+45	run03	EF	F	1	punish	matched	1.599282
+45	run03	AB	B	1	punish	matched	1.598050
+45	run03	AB	A	2	reward	matched	1.578972
+45	run03	EF	F	2	reward	mismatched	1.596933
+45	run03	EF	F	2	punish	matched	1.593750
+45	run03	AB	Miss	Miss	Miss	Miss	Miss

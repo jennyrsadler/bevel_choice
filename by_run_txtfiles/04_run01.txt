@@ -1,26 +1,26 @@
-04	run01	AB	A	punish	mismatched	1.568732
-04	run01	CD	C	reward	matched	1.568763
-04	run01	CD	C	reward	matched	1.583615
-04	run01	AB	B	punish	matched	1.599383
-04	run01	EF	E	reward	matched	1.581338
-04	run01	AB	A	reward	matched	1.580364
-04	run01	Miss	Miss	Miss	Miss	Miss
-04	run01	Miss	Miss	Miss	Miss	Miss
-04	run01	AB	A	reward	matched	1.610813
-04	run01	CD	D	punish	matched	1.591900
-04	run01	EF	E	punish	mismatched	1.577248
-04	run01	CD	C	reward	matched	1.590787
-04	run01	EF	F	reward	mismatched	1.590414
-04	run01	CD	D	reward	mismatched	1.605161
-04	run01	CD	D	punish	matched	1.605390
-04	run01	AB	A	reward	matched	1.603126
-04	run01	CD	C	reward	matched	1.586773
-04	run01	CD	D	reward	mismatched	1.586152
-04	run01	CD	C	punish	mismatched	1.583708
-04	run01	AB	B	punish	matched	1.583311
-04	run01	AB	A	punish	mismatched	1.581301
-04	run01	CD	D	punish	matched	1.598490
-04	run01	AB	B	punish	matched	1.597480
-04	run01	EF	F	reward	mismatched	1.580334
-04	run01	EF	E	reward	matched	1.594339
-04	run01	AB	A	punish	mismatched	1.594212
+04	run01	AB	A	2	punish	mismatched	1.568732
+04	run01	CD	C	1	reward	matched	1.568763
+04	run01	CD	C	2	reward	matched	1.583615
+04	run01	AB	B	1	punish	matched	1.599383
+04	run01	EF	E	2	reward	matched	1.581338
+04	run01	AB	A	1	reward	matched	1.580364
+04	run01	EF	Miss	Miss	Miss	Miss	Miss
+04	run01	AB	Miss	Miss	Miss	Miss	Miss
+04	run01	AB	A	1	reward	matched	1.610813
+04	run01	CD	D	1	punish	matched	1.591900
+04	run01	EF	E	1	punish	mismatched	1.577248
+04	run01	CD	C	2	reward	matched	1.590787
+04	run01	EF	F	1	reward	mismatched	1.590414
+04	run01	CD	D	1	reward	mismatched	1.605161
+04	run01	CD	D	2	punish	matched	1.605390
+04	run01	AB	A	2	reward	matched	1.603126
+04	run01	CD	C	1	reward	matched	1.586773
+04	run01	CD	D	2	reward	mismatched	1.586152
+04	run01	CD	C	2	punish	mismatched	1.583708
+04	run01	AB	B	2	punish	matched	1.583311
+04	run01	AB	A	1	punish	mismatched	1.581301
+04	run01	CD	D	2	punish	matched	1.598490
+04	run01	AB	B	2	punish	matched	1.597480
+04	run01	EF	F	1	reward	mismatched	1.580334
+04	run01	EF	E	1	reward	matched	1.594339
+04	run01	AB	A	2	punish	mismatched	1.594212

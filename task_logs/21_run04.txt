@@ -1,26 +1,26 @@
-21	run04	EF	F	punish	matched	1.568412
-21	run04	EF	F	punish	matched	1.600060
-21	run04	EF	E	reward	matched	1.617588
-21	run04	EF	E	punish	mismatched	1.598073
-21	run04	EF	E	punish	mismatched	1.596701
-21	run04	Miss	Miss	Miss	Miss	Miss
-21	run04	CD	D	punish	matched	1.595902
-21	run04	AB	B	punish	matched	1.593636
-21	run04	AB	A	punish	mismatched	1.575891
-21	run04	CD	D	punish	matched	1.591559
-21	run04	EF	E	punish	mismatched	1.575324
-21	run04	EF	F	reward	mismatched	1.589519
-21	run04	EF	F	punish	matched	1.572007
-21	run04	AB	A	reward	matched	1.587665
-21	run04	AB	B	punish	matched	1.570029
-21	run04	Miss	Miss	Miss	Miss	Miss
-21	run04	EF	F	punish	matched	1.618681
-21	run04	CD	D	reward	mismatched	1.567092
-21	run04	EF	F	punish	matched	1.567275
-21	run04	CD	C	reward	matched	1.599369
-21	run04	AB	B	punish	matched	1.582198
-21	run04	EF	F	punish	matched	1.598397
-21	run04	EF	F	punish	matched	1.580176
-21	run04	EF	E	punish	mismatched	1.594350
-21	run04	CD	C	reward	matched	1.576737
-21	run04	CD	D	punish	matched	1.592041
+21	run04	EF	F	2	punish	matched	1.568412
+21	run04	EF	F	1	punish	matched	1.600060
+21	run04	EF	E	2	reward	matched	1.617588
+21	run04	EF	E	2	punish	mismatched	1.598073
+21	run04	EF	E	1	punish	mismatched	1.596701
+21	run04	CD	Miss	Miss	Miss	Miss	Miss
+21	run04	CD	D	2	punish	matched	1.595902
+21	run04	AB	B	1	punish	matched	1.593636
+21	run04	AB	A	1	punish	mismatched	1.575891
+21	run04	CD	D	1	punish	matched	1.591559
+21	run04	EF	E	1	punish	mismatched	1.575324
+21	run04	EF	F	2	reward	mismatched	1.589519
+21	run04	EF	F	1	punish	matched	1.572007
+21	run04	AB	A	2	reward	matched	1.587665
+21	run04	AB	B	2	punish	matched	1.570029
+21	run04	AB	Miss	Miss	Miss	Miss	Miss
+21	run04	EF	F	2	punish	matched	1.618681
+21	run04	CD	D	1	reward	mismatched	1.567092
+21	run04	EF	F	2	punish	matched	1.567275
+21	run04	CD	C	1	reward	matched	1.599369
+21	run04	AB	B	1	punish	matched	1.582198
+21	run04	EF	F	2	punish	matched	1.598397
+21	run04	EF	F	1	punish	matched	1.580176
+21	run04	EF	E	2	punish	mismatched	1.594350
+21	run04	CD	C	1	reward	matched	1.576737
+21	run04	CD	D	1	punish	matched	1.592041

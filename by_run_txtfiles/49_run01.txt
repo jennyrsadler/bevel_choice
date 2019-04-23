@@ -1,26 +1,26 @@
-49	run01	AB	B	punish	matched	1.552290
-49	run01	Miss	Miss	Miss	Miss	Miss
-49	run01	CD	C	reward	matched	1.582779
-49	run01	EF	E	punish	mismatched	1.598638
-49	run01	CD	D	punish	matched	1.614093
-49	run01	EF	E	punish	mismatched	1.597175
-49	run01	AB	B	punish	matched	1.612859
-49	run01	EF	E	reward	matched	1.593721
-49	run01	EF	E	reward	matched	1.610881
-49	run01	CD	C	reward	matched	1.608502
-49	run01	AB	A	punish	mismatched	1.592335
-49	run01	CD	D	punish	matched	1.607163
-49	run01	AB	B	punish	matched	1.607922
-49	run01	AB	B	punish	matched	1.588180
-49	run01	EF	E	punish	mismatched	1.604627
-49	run01	AB	A	reward	matched	1.602770
-49	run01	CD	C	reward	matched	1.602793
-49	run01	AB	B	reward	mismatched	1.618354
-49	run01	EF	E	reward	matched	1.618533
-49	run01	AB	A	reward	matched	1.616195
-49	run01	AB	A	reward	matched	1.597829
-49	run01	CD	D	punish	matched	1.597687
-49	run01	AB	B	punish	matched	1.596701
-49	run01	CD	C	punish	mismatched	1.612927
-49	run01	EF	E	punish	mismatched	1.611451
-49	run01	CD	C	punish	mismatched	1.593781
+49	run01	AB	B	1	punish	matched	1.552290
+49	run01	EF	Miss	Miss	Miss	Miss	Miss
+49	run01	CD	C	2	reward	matched	1.582779
+49	run01	EF	E	2	punish	mismatched	1.598638
+49	run01	CD	D	1	punish	matched	1.614093
+49	run01	EF	E	1	punish	mismatched	1.597175
+49	run01	AB	B	1	punish	matched	1.612859
+49	run01	EF	E	1	reward	matched	1.593721
+49	run01	EF	E	1	reward	matched	1.610881
+49	run01	CD	C	1	reward	matched	1.608502
+49	run01	AB	A	2	punish	mismatched	1.592335
+49	run01	CD	D	1	punish	matched	1.607163
+49	run01	AB	B	2	punish	matched	1.607922
+49	run01	AB	B	1	punish	matched	1.588180
+49	run01	EF	E	1	punish	mismatched	1.604627
+49	run01	AB	A	1	reward	matched	1.602770
+49	run01	CD	C	1	reward	matched	1.602793
+49	run01	AB	B	1	reward	mismatched	1.618354
+49	run01	EF	E	1	reward	matched	1.618533
+49	run01	AB	A	1	reward	matched	1.616195
+49	run01	AB	A	1	reward	matched	1.597829
+49	run01	CD	D	2	punish	matched	1.597687
+49	run01	AB	B	1	punish	matched	1.596701
+49	run01	CD	C	1	punish	mismatched	1.612927
+49	run01	EF	E	2	punish	mismatched	1.611451
+49	run01	CD	C	2	punish	mismatched	1.593781

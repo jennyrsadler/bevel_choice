@@ -1,26 +1,26 @@
-22	run01	Miss	Miss	Miss	Miss	Miss
-22	run01	AB	A	reward	matched	1.584243
-22	run01	Miss	Miss	Miss	Miss	Miss
-22	run01	AB	B	punish	matched	1.598873
-22	run01	EF	E	punish	mismatched	1.597038
-22	run01	CD	D	punish	matched	1.596888
-22	run01	EF	F	reward	mismatched	1.580087
-22	run01	Miss	Miss	Miss	Miss	Miss
-22	run01	CD	C	reward	matched	1.593917
-22	run01	CD	C	reward	matched	1.591920
-22	run01	AB	A	punish	mismatched	1.609017
-22	run01	CD	D	punish	matched	1.606681
-22	run01	AB	B	punish	matched	1.590378
-22	run01	CD	C	reward	matched	1.604601
-22	run01	CD	D	punish	matched	1.604819
-22	run01	AB	B	punish	matched	1.586326
-22	run01	AB	B	punish	matched	1.586298
-22	run01	CD	D	punish	matched	1.584948
-22	run01	CD	D	punish	matched	1.582960
-22	run01	AB	A	reward	matched	1.599520
-22	run01	EF	E	reward	matched	1.582368
-22	run01	AB	B	punish	matched	1.581343
-22	run01	AB	A	reward	matched	1.596995
-22	run01	AB	A	reward	matched	1.596444
-22	run01	AB	B	punish	matched	1.593765
-22	run01	CD	C	reward	matched	1.609514
+22	run01	EF	Miss	Miss	Miss	Miss	Miss
+22	run01	AB	A	2	reward	matched	1.584243
+22	run01	EF	Miss	Miss	Miss	Miss	Miss
+22	run01	AB	B	2	punish	matched	1.598873
+22	run01	EF	E	2	punish	mismatched	1.597038
+22	run01	CD	D	1	punish	matched	1.596888
+22	run01	EF	F	1	reward	mismatched	1.580087
+22	run01	EF	Miss	Miss	Miss	Miss	Miss
+22	run01	CD	C	1	reward	matched	1.593917
+22	run01	CD	C	2	reward	matched	1.591920
+22	run01	AB	A	2	punish	mismatched	1.609017
+22	run01	CD	D	1	punish	matched	1.606681
+22	run01	AB	B	2	punish	matched	1.590378
+22	run01	CD	C	1	reward	matched	1.604601
+22	run01	CD	D	1	punish	matched	1.604819
+22	run01	AB	B	2	punish	matched	1.586326
+22	run01	AB	B	1	punish	matched	1.586298
+22	run01	CD	D	1	punish	matched	1.584948
+22	run01	CD	D	1	punish	matched	1.582960
+22	run01	AB	A	1	reward	matched	1.599520
+22	run01	EF	E	2	reward	matched	1.582368
+22	run01	AB	B	2	punish	matched	1.581343
+22	run01	AB	A	2	reward	matched	1.596995
+22	run01	AB	A	2	reward	matched	1.596444
+22	run01	AB	B	2	punish	matched	1.593765
+22	run01	CD	C	2	reward	matched	1.609514

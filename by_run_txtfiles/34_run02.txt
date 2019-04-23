@@ -1,26 +1,26 @@
-34	run02	CD	C	punish	mismatched	1.568280
-34	run02	CD	C	punish	mismatched	1.583047
-34	run02	EF	F	punish	matched	1.601576
-34	run02	EF	E	reward	matched	1.599477
-34	run02	CD	C	punish	mismatched	1.581871
-34	run02	AB	B	punish	matched	1.579276
-34	run02	EF	E	reward	matched	1.594575
-34	run02	EF	E	reward	matched	1.594079
-34	run02	EF	E	reward	matched	1.592914
-34	run02	CD	C	reward	matched	1.609960
-34	run02	EF	E	reward	matched	1.574101
-34	run02	AB	A	reward	matched	1.590993
-34	run02	EF	F	reward	mismatched	1.588571
-34	run02	AB	A	reward	matched	1.604655
-34	run02	EF	E	reward	matched	1.604944
-34	run02	EF	E	punish	mismatched	1.586929
-34	run02	EF	F	punish	matched	1.586054
-34	run02	EF	E	reward	matched	1.583922
-34	run02	EF	E	reward	matched	1.584561
-34	run02	AB	B	punish	matched	1.581408
-34	run02	AB	B	reward	mismatched	1.581161
-34	run02	EF	F	punish	matched	1.596687
-34	run02	AB	A	reward	matched	1.595568
-34	run02	EF	F	punish	matched	1.593983
-34	run02	AB	B	punish	matched	1.594296
-34	run02	CD	C	punish	mismatched	1.592367
+34	run02	CD	C	2	punish	mismatched	1.568280
+34	run02	CD	C	1	punish	mismatched	1.583047
+34	run02	EF	F	2	punish	matched	1.601576
+34	run02	EF	E	1	reward	matched	1.599477
+34	run02	CD	C	2	punish	mismatched	1.581871
+34	run02	AB	B	1	punish	matched	1.579276
+34	run02	EF	E	1	reward	matched	1.594575
+34	run02	EF	E	1	reward	matched	1.594079
+34	run02	EF	E	2	reward	matched	1.592914
+34	run02	CD	C	1	reward	matched	1.609960
+34	run02	EF	E	1	reward	matched	1.574101
+34	run02	AB	A	2	reward	matched	1.590993
+34	run02	EF	F	2	reward	mismatched	1.588571
+34	run02	AB	A	1	reward	matched	1.604655
+34	run02	EF	E	2	reward	matched	1.604944
+34	run02	EF	E	2	punish	mismatched	1.586929
+34	run02	EF	F	1	punish	matched	1.586054
+34	run02	EF	E	2	reward	matched	1.583922
+34	run02	EF	E	2	reward	matched	1.584561
+34	run02	AB	B	1	punish	matched	1.581408
+34	run02	AB	B	2	reward	mismatched	1.581161
+34	run02	EF	F	1	punish	matched	1.596687
+34	run02	AB	A	2	reward	matched	1.595568
+34	run02	EF	F	2	punish	matched	1.593983
+34	run02	AB	B	2	punish	matched	1.594296
+34	run02	CD	C	1	punish	mismatched	1.592367

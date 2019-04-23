@@ -1,26 +1,26 @@
-21	run03	EF	E	reward	matched	1.568482
-21	run03	AB	A	reward	matched	1.618542
-21	run03	AB	A	reward	matched	1.599790
-21	run03	CD	C	reward	matched	1.598880
-21	run03	AB	B	punish	matched	1.599329
-21	run03	Miss	Miss	Miss	Miss	Miss
-21	run03	AB	A	reward	matched	1.595710
-21	run03	AB	B	punish	matched	1.594933
-21	run03	Miss	Miss	Miss	Miss	Miss
-21	run03	EF	F	reward	mismatched	1.594067
-21	run03	CD	C	punish	mismatched	1.591782
-21	run03	AB	B	punish	matched	1.607603
-21	run03	EF	F	punish	matched	1.589452
-21	run03	Miss	Miss	Miss	Miss	Miss
-21	run03	CD	D	reward	mismatched	1.588329
-21	run03	AB	A	reward	matched	1.569968
-21	run03	Miss	Miss	Miss	Miss	Miss
-21	run03	AB	B	punish	matched	1.567788
-21	run03	Miss	Miss	Miss	Miss	Miss
-21	run03	CD	C	reward	matched	1.581923
-21	run03	Miss	Miss	Miss	Miss	Miss
-21	run03	AB	B	punish	matched	1.598015
-21	run03	AB	B	punish	matched	1.596015
-21	run03	EF	F	punish	matched	1.594948
-21	run03	CD	D	punish	matched	1.577162
-21	run03	EF	F	punish	matched	1.576171
+21	run03	EF	E	2	reward	matched	1.568482
+21	run03	AB	A	1	reward	matched	1.618542
+21	run03	AB	A	2	reward	matched	1.599790
+21	run03	CD	C	1	reward	matched	1.598880
+21	run03	AB	B	1	punish	matched	1.599329
+21	run03	CD	Miss	Miss	Miss	Miss	Miss
+21	run03	AB	A	1	reward	matched	1.595710
+21	run03	AB	B	1	punish	matched	1.594933
+21	run03	EF	Miss	Miss	Miss	Miss	Miss
+21	run03	EF	F	2	reward	mismatched	1.594067
+21	run03	CD	C	1	punish	mismatched	1.591782
+21	run03	AB	B	1	punish	matched	1.607603
+21	run03	EF	F	1	punish	matched	1.589452
+21	run03	EF	Miss	Miss	Miss	Miss	Miss
+21	run03	CD	D	1	reward	mismatched	1.588329
+21	run03	AB	A	1	reward	matched	1.569968
+21	run03	CD	Miss	Miss	Miss	Miss	Miss
+21	run03	AB	B	1	punish	matched	1.567788
+21	run03	CD	Miss	Miss	Miss	Miss	Miss
+21	run03	CD	C	2	reward	matched	1.581923
+21	run03	CD	Miss	Miss	Miss	Miss	Miss
+21	run03	AB	B	1	punish	matched	1.598015
+21	run03	AB	B	1	punish	matched	1.596015
+21	run03	EF	F	2	punish	matched	1.594948
+21	run03	CD	D	1	punish	matched	1.577162
+21	run03	EF	F	2	punish	matched	1.576171

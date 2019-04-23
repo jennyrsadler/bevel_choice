@@ -1,26 +1,26 @@
-53	run02	EF	F	punish	matched	1.584733
-53	run02	CD	D	reward	mismatched	1.598671
-53	run02	EF	E	reward	matched	1.581389
-53	run02	CD	D	punish	matched	1.613043
-53	run02	AB	A	reward	matched	1.594571
-53	run02	EF	E	punish	mismatched	1.592082
-53	run02	CD	D	reward	mismatched	1.590134
-53	run02	Miss	Miss	Miss	Miss	Miss
-53	run02	EF	E	punish	mismatched	1.620830
-53	run02	EF	F	reward	mismatched	1.602610
-53	run02	CD	D	punish	matched	1.601208
-53	run02	AB	A	reward	matched	1.599019
-53	run02	AB	A	reward	matched	1.596491
-53	run02	AB	A	reward	matched	1.596317
-53	run02	AB	B	punish	matched	1.611214
-53	run02	Miss	Miss	Miss	Miss	Miss
-53	run02	CD	D	punish	matched	1.607486
-53	run02	AB	A	reward	matched	1.605987
-53	run02	Miss	Miss	Miss	Miss	Miss
-53	run02	AB	B	punish	matched	1.601106
-53	run02	CD	D	punish	matched	1.617710
-53	run02	CD	C	reward	matched	1.597905
-53	run02	CD	C	reward	matched	1.596111
-53	run02	CD	C	reward	matched	1.594230
-53	run02	Miss	Miss	Miss	Miss	Miss
-53	run02	EF	E	punish	mismatched	1.607176
+53	run02	EF	F	1	punish	matched	1.584733
+53	run02	CD	D	1	reward	mismatched	1.598671
+53	run02	EF	E	1	reward	matched	1.581389
+53	run02	CD	D	2	punish	matched	1.613043
+53	run02	AB	A	1	reward	matched	1.594571
+53	run02	EF	E	1	punish	mismatched	1.592082
+53	run02	CD	D	1	reward	mismatched	1.590134
+53	run02	CD	Miss	Miss	Miss	Miss	Miss
+53	run02	EF	E	1	punish	mismatched	1.620830
+53	run02	EF	F	2	reward	mismatched	1.602610
+53	run02	CD	D	1	punish	matched	1.601208
+53	run02	AB	A	2	reward	matched	1.599019
+53	run02	AB	A	1	reward	matched	1.596491
+53	run02	AB	A	2	reward	matched	1.596317
+53	run02	AB	B	1	punish	matched	1.611214
+53	run02	CD	Miss	Miss	Miss	Miss	Miss
+53	run02	CD	D	1	punish	matched	1.607486
+53	run02	AB	A	2	reward	matched	1.605987
+53	run02	AB	Miss	Miss	Miss	Miss	Miss
+53	run02	AB	B	1	punish	matched	1.601106
+53	run02	CD	D	2	punish	matched	1.617710
+53	run02	CD	C	2	reward	matched	1.597905
+53	run02	CD	C	2	reward	matched	1.596111
+53	run02	CD	C	1	reward	matched	1.594230
+53	run02	EF	Miss	Miss	Miss	Miss	Miss
+53	run02	EF	E	1	punish	mismatched	1.607176

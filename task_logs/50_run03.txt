@@ -1,26 +1,26 @@
-50	run03	AB	A	reward	matched	1.567835
-50	run03	AB	B	punish	matched	1.585585
-50	run03	EF	F	reward	mismatched	1.599477
-50	run03	EF	F	punish	matched	1.597920
-50	run03	EF	F	reward	mismatched	1.597966
-50	run03	CD	C	reward	matched	1.596959
-50	run03	CD	D	punish	matched	1.595059
-50	run03	CD	C	punish	mismatched	1.611164
-50	run03	EF	E	punish	mismatched	1.627438
-50	run03	EF	E	reward	matched	1.609885
-50	run03	CD	C	reward	matched	1.591377
-50	run03	CD	C	punish	mismatched	1.590717
-50	run03	CD	C	reward	matched	1.605448
-50	run03	CD	D	punish	matched	1.605594
-50	run03	CD	D	punish	matched	1.604679
-50	run03	AB	A	punish	mismatched	1.603139
-50	run03	CD	D	punish	matched	1.604159
-50	run03	EF	E	punish	mismatched	1.600529
-50	run03	EF	E	punish	mismatched	1.600317
-50	run03	AB	B	punish	matched	1.598288
-50	run03	CD	C	punish	mismatched	1.598754
-50	run03	AB	A	reward	matched	1.614109
-50	run03	AB	A	reward	matched	1.595851
-50	run03	EF	F	reward	mismatched	1.595274
-50	run03	AB	B	punish	matched	1.593337
-50	run03	AB	B	punish	matched	1.592447
+50	run03	AB	A	1	reward	matched	1.567835
+50	run03	AB	B	1	punish	matched	1.585585
+50	run03	EF	F	1	reward	mismatched	1.599477
+50	run03	EF	F	1	punish	matched	1.597920
+50	run03	EF	F	1	reward	mismatched	1.597966
+50	run03	CD	C	2	reward	matched	1.596959
+50	run03	CD	D	2	punish	matched	1.595059
+50	run03	CD	C	1	punish	mismatched	1.611164
+50	run03	EF	E	1	punish	mismatched	1.627438
+50	run03	EF	E	1	reward	matched	1.609885
+50	run03	CD	C	1	reward	matched	1.591377
+50	run03	CD	C	2	punish	mismatched	1.590717
+50	run03	CD	C	2	reward	matched	1.605448
+50	run03	CD	D	2	punish	matched	1.605594
+50	run03	CD	D	2	punish	matched	1.604679
+50	run03	AB	A	2	punish	mismatched	1.603139
+50	run03	CD	D	2	punish	matched	1.604159
+50	run03	EF	E	2	punish	mismatched	1.600529
+50	run03	EF	E	2	punish	mismatched	1.600317
+50	run03	AB	B	1	punish	matched	1.598288
+50	run03	CD	C	1	punish	mismatched	1.598754
+50	run03	AB	A	1	reward	matched	1.614109
+50	run03	AB	A	2	reward	matched	1.595851
+50	run03	EF	F	1	reward	mismatched	1.595274
+50	run03	AB	B	1	punish	matched	1.593337
+50	run03	AB	B	1	punish	matched	1.592447

@@ -1,26 +1,26 @@
-26	run02	AB	A	reward	matched	1.586533
-26	run02	AB	B	punish	matched	1.620175
-26	run02	AB	B	punish	matched	1.618362
-26	run02	EF	E	reward	matched	1.616368
-26	run02	EF	E	reward	matched	1.615972
-26	run02	CD	D	reward	mismatched	1.613112
-26	run02	CD	D	punish	matched	1.628384
-26	run02	EF	E	reward	matched	1.624542
-26	run02	CD	D	punish	matched	1.593493
-26	run02	Miss	Miss	Miss	Miss	Miss
-26	run02	AB	B	punish	matched	1.620477
-26	run02	CD	C	reward	matched	1.625003
-26	run02	EF	F	punish	matched	1.607917
-26	run02	EF	E	reward	matched	1.615057
-26	run02	AB	B	punish	matched	1.603363
-26	run02	AB	B	punish	matched	1.600936
-26	run02	AB	A	reward	matched	1.603714
-26	run02	AB	B	punish	matched	1.587456
-26	run02	Miss	Miss	Miss	Miss	Miss
-26	run02	EF	F	reward	mismatched	1.598024
-26	run02	EF	E	punish	mismatched	1.601942
-26	run02	EF	F	reward	mismatched	1.596846
-26	run02	EF	F	punish	matched	1.591413
-26	run02	Miss	Miss	Miss	Miss	Miss
-26	run02	EF	F	punish	matched	1.591339
-26	run02	AB	B	punish	matched	1.596967
+26	run02	AB	A	1	reward	matched	1.586533
+26	run02	AB	B	2	punish	matched	1.620175
+26	run02	AB	B	2	punish	matched	1.618362
+26	run02	EF	E	2	reward	matched	1.616368
+26	run02	EF	E	1	reward	matched	1.615972
+26	run02	CD	D	1	reward	mismatched	1.613112
+26	run02	CD	D	2	punish	matched	1.628384
+26	run02	EF	E	2	reward	matched	1.624542
+26	run02	CD	D	2	punish	matched	1.593493
+26	run02	CD	Miss	Miss	Miss	Miss	Miss
+26	run02	AB	B	1	punish	matched	1.620477
+26	run02	CD	C	1	reward	matched	1.625003
+26	run02	EF	F	1	punish	matched	1.607917
+26	run02	EF	E	2	reward	matched	1.615057
+26	run02	AB	B	1	punish	matched	1.603363
+26	run02	AB	B	2	punish	matched	1.600936
+26	run02	AB	A	2	reward	matched	1.603714
+26	run02	AB	B	2	punish	matched	1.587456
+26	run02	CD	Miss	Miss	Miss	Miss	Miss
+26	run02	EF	F	1	reward	mismatched	1.598024
+26	run02	EF	E	2	punish	mismatched	1.601942
+26	run02	EF	F	2	reward	mismatched	1.596846
+26	run02	EF	F	2	punish	matched	1.591413
+26	run02	EF	Miss	Miss	Miss	Miss	Miss
+26	run02	EF	F	1	punish	matched	1.591339
+26	run02	AB	B	2	punish	matched	1.596967

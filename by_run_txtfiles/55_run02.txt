@@ -1,26 +1,26 @@
-55	run02	CD	C	reward	matched	1.568324
-55	run02	AB	B	reward	mismatched	1.599131
-55	run02	AB	A	reward	matched	1.599018
-55	run02	EF	E	punish	mismatched	1.580269
-55	run02	EF	F	punish	matched	1.595587
-55	run02	EF	E	punish	mismatched	1.609178
-55	run02	CD	C	reward	matched	1.606874
-55	run02	AB	B	punish	matched	1.589021
-55	run02	EF	F	reward	mismatched	1.587176
-55	run02	EF	F	punish	matched	1.586067
-55	run02	EF	E	reward	matched	1.583758
-55	run02	CD	D	reward	mismatched	1.616355
-55	run02	EF	E	punish	mismatched	1.613680
-55	run02	AB	B	punish	matched	1.595521
-55	run02	EF	E	punish	mismatched	1.611210
-55	run02	CD	D	punish	matched	1.592600
-55	run02	AB	A	reward	matched	1.591088
-55	run02	CD	C	reward	matched	1.605924
-55	run02	CD	C	punish	mismatched	1.604555
-55	run02	EF	E	reward	matched	1.601722
-55	run02	AB	B	reward	mismatched	1.600051
-55	run02	CD	D	punish	matched	1.598629
-55	run02	AB	A	reward	matched	1.596740
-55	run02	AB	A	reward	matched	1.595069
-55	run02	AB	B	punish	matched	1.592941
-55	run02	EF	E	reward	matched	1.574328
+55	run02	CD	C	1	reward	matched	1.568324
+55	run02	AB	B	2	reward	mismatched	1.599131
+55	run02	AB	A	2	reward	matched	1.599018
+55	run02	EF	E	1	punish	mismatched	1.580269
+55	run02	EF	F	1	punish	matched	1.595587
+55	run02	EF	E	2	punish	mismatched	1.609178
+55	run02	CD	C	1	reward	matched	1.606874
+55	run02	AB	B	2	punish	matched	1.589021
+55	run02	EF	F	1	reward	mismatched	1.587176
+55	run02	EF	F	2	punish	matched	1.586067
+55	run02	EF	E	1	reward	matched	1.583758
+55	run02	CD	D	1	reward	mismatched	1.616355
+55	run02	EF	E	1	punish	mismatched	1.613680
+55	run02	AB	B	2	punish	matched	1.595521
+55	run02	EF	E	1	punish	mismatched	1.611210
+55	run02	CD	D	1	punish	matched	1.592600
+55	run02	AB	A	2	reward	matched	1.591088
+55	run02	CD	C	2	reward	matched	1.605924
+55	run02	CD	C	1	punish	mismatched	1.604555
+55	run02	EF	E	2	reward	matched	1.601722
+55	run02	AB	B	2	reward	mismatched	1.600051
+55	run02	CD	D	1	punish	matched	1.598629
+55	run02	AB	A	2	reward	matched	1.596740
+55	run02	AB	A	1	reward	matched	1.595069
+55	run02	AB	B	2	punish	matched	1.592941
+55	run02	EF	E	2	reward	matched	1.574328

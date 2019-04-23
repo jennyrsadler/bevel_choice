@@ -1,26 +1,26 @@
-68	run04	AB	B	punish	matched	1.584473
-68	run04	AB	A	reward	matched	1.584162
-68	run04	AB	B	punish	matched	1.582672
-68	run04	AB	A	punish	mismatched	1.579036
-68	run04	CD	C	punish	mismatched	1.594084
-68	run04	EF	F	reward	mismatched	1.591859
-68	run04	EF	E	reward	matched	1.591463
-68	run04	CD	C	punish	mismatched	1.605043
-68	run04	EF	F	reward	mismatched	1.603095
-68	run04	CD	D	reward	mismatched	1.601258
-68	run04	CD	C	reward	matched	1.601170
-68	run04	AB	A	reward	matched	1.598064
-68	run04	CD	C	reward	matched	1.580163
-68	run04	AB	B	reward	mismatched	1.580402
-68	run04	EF	E	punish	mismatched	1.576651
-68	run04	CD	D	punish	matched	1.592782
-68	run04	AB	B	punish	matched	1.591000
-68	run04	CD	C	punish	mismatched	1.587914
-68	run04	CD	D	reward	mismatched	1.587450
-68	run04	EF	F	reward	mismatched	1.618904
-68	run04	CD	C	punish	mismatched	1.600922
-68	run04	CD	D	punish	matched	1.598808
-68	run04	CD	D	reward	mismatched	1.597189
-68	run04	CD	D	punish	matched	1.594328
-68	run04	CD	D	punish	matched	1.592707
-68	run04	CD	D	punish	matched	1.591197
+68	run04	AB	B	1	punish	matched	1.584473
+68	run04	AB	A	2	reward	matched	1.584162
+68	run04	AB	B	1	punish	matched	1.582672
+68	run04	AB	A	1	punish	mismatched	1.579036
+68	run04	CD	C	1	punish	mismatched	1.594084
+68	run04	EF	F	1	reward	mismatched	1.591859
+68	run04	EF	E	2	reward	matched	1.591463
+68	run04	CD	C	1	punish	mismatched	1.605043
+68	run04	EF	F	2	reward	mismatched	1.603095
+68	run04	CD	D	1	reward	mismatched	1.601258
+68	run04	CD	C	2	reward	matched	1.601170
+68	run04	AB	A	1	reward	matched	1.598064
+68	run04	CD	C	2	reward	matched	1.580163
+68	run04	AB	B	2	reward	mismatched	1.580402
+68	run04	EF	E	1	punish	mismatched	1.576651
+68	run04	CD	D	1	punish	matched	1.592782
+68	run04	AB	B	1	punish	matched	1.591000
+68	run04	CD	C	1	punish	mismatched	1.587914
+68	run04	CD	D	1	reward	mismatched	1.587450
+68	run04	EF	F	1	reward	mismatched	1.618904
+68	run04	CD	C	1	punish	mismatched	1.600922
+68	run04	CD	D	2	punish	matched	1.598808
+68	run04	CD	D	2	reward	mismatched	1.597189
+68	run04	CD	D	1	punish	matched	1.594328
+68	run04	CD	D	2	punish	matched	1.592707
+68	run04	CD	D	2	punish	matched	1.591197

@@ -1,26 +1,26 @@
-24	run02	CD	C	punish	mismatched	1.601491
-24	run02	CD	D	punish	matched	1.599734
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	EF	F	reward	mismatched	1.616654
-24	run02	AB	B	punish	matched	1.615539
-24	run02	AB	B	punish	matched	1.596324
-24	run02	EF	E	reward	matched	1.611241
-24	run02	EF	E	punish	mismatched	1.594017
-24	run02	AB	B	punish	matched	1.593103
-24	run02	AB	A	reward	matched	1.592735
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	EF	E	reward	matched	1.621991
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	CD	C	reward	matched	1.603416
-24	run02	EF	F	reward	mismatched	1.619549
-24	run02	EF	E	reward	matched	1.600490
-24	run02	CD	C	punish	mismatched	1.617470
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	CD	D	reward	mismatched	1.595572
-24	run02	Miss	Miss	Miss	Miss	Miss
-24	run02	CD	D	reward	mismatched	1.610015
-24	run02	Miss	Miss	Miss	Miss	Miss
+24	run02	CD	C	1	punish	mismatched	1.601491
+24	run02	CD	D	1	punish	matched	1.599734
+24	run02	EF	Miss	Miss	Miss	Miss	Miss
+24	run02	EF	F	1	reward	mismatched	1.616654
+24	run02	AB	B	1	punish	matched	1.615539
+24	run02	AB	B	1	punish	matched	1.596324
+24	run02	EF	E	1	reward	matched	1.611241
+24	run02	EF	E	1	punish	mismatched	1.594017
+24	run02	AB	B	1	punish	matched	1.593103
+24	run02	AB	A	1	reward	matched	1.592735
+24	run02	AB	Miss	Miss	Miss	Miss	Miss
+24	run02	EF	Miss	Miss	Miss	Miss	Miss
+24	run02	EF	E	1	reward	matched	1.621991
+24	run02	AB	Miss	Miss	Miss	Miss	Miss
+24	run02	CD	Miss	Miss	Miss	Miss	Miss
+24	run02	CD	C	1	reward	matched	1.603416
+24	run02	EF	F	1	reward	mismatched	1.619549
+24	run02	EF	E	1	reward	matched	1.600490
+24	run02	CD	C	1	punish	mismatched	1.617470
+24	run02	AB	Miss	Miss	Miss	Miss	Miss
+24	run02	AB	Miss	Miss	Miss	Miss	Miss
+24	run02	AB	Miss	Miss	Miss	Miss	Miss
+24	run02	CD	D	1	reward	mismatched	1.595572
+24	run02	EF	Miss	Miss	Miss	Miss	Miss
+24	run02	CD	D	1	reward	mismatched	1.610015
+24	run02	EF	Miss	Miss	Miss	Miss	Miss

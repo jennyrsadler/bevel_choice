@@ -1,26 +1,26 @@
-37	run03	AB	A	reward	matched	1.584877
-37	run03	EF	E	reward	matched	1.601459
-37	run03	EF	F	punish	matched	1.599147
-37	run03	AB	B	punish	matched	1.615297
-37	run03	AB	A	reward	matched	1.598607
-37	run03	AB	A	reward	matched	1.597323
-37	run03	EF	F	reward	mismatched	1.595388
-37	run03	AB	B	punish	matched	1.594754
-37	run03	CD	D	punish	matched	1.594379
-37	run03	AB	B	punish	matched	1.593028
-37	run03	AB	A	reward	matched	1.591479
-37	run03	CD	D	reward	mismatched	1.591151
-37	run03	AB	B	punish	matched	1.605667
-37	run03	EF	F	punish	matched	1.623107
-37	run03	EF	E	punish	mismatched	1.605854
-37	run03	EF	E	punish	mismatched	1.586133
-37	run03	CD	C	punish	mismatched	1.602797
-37	run03	EF	F	punish	matched	1.600878
-37	run03	AB	A	reward	matched	1.600651
-37	run03	AB	A	reward	matched	1.581416
-37	run03	EF	E	reward	matched	1.598621
-37	run03	EF	E	reward	matched	1.597910
-37	run03	CD	C	reward	matched	1.595910
-37	run03	CD	C	reward	matched	1.594189
-37	run03	CD	D	reward	mismatched	1.576863
-37	run03	EF	F	reward	mismatched	1.592556
+37	run03	AB	A	2	reward	matched	1.584877
+37	run03	EF	E	1	reward	matched	1.601459
+37	run03	EF	F	2	punish	matched	1.599147
+37	run03	AB	B	2	punish	matched	1.615297
+37	run03	AB	A	2	reward	matched	1.598607
+37	run03	AB	A	1	reward	matched	1.597323
+37	run03	EF	F	2	reward	mismatched	1.595388
+37	run03	AB	B	2	punish	matched	1.594754
+37	run03	CD	D	2	punish	matched	1.594379
+37	run03	AB	B	1	punish	matched	1.593028
+37	run03	AB	A	2	reward	matched	1.591479
+37	run03	CD	D	1	reward	mismatched	1.591151
+37	run03	AB	B	1	punish	matched	1.605667
+37	run03	EF	F	2	punish	matched	1.623107
+37	run03	EF	E	1	punish	mismatched	1.605854
+37	run03	EF	E	2	punish	mismatched	1.586133
+37	run03	CD	C	1	punish	mismatched	1.602797
+37	run03	EF	F	2	punish	matched	1.600878
+37	run03	AB	A	1	reward	matched	1.600651
+37	run03	AB	A	2	reward	matched	1.581416
+37	run03	EF	E	2	reward	matched	1.598621
+37	run03	EF	E	2	reward	matched	1.597910
+37	run03	CD	C	2	reward	matched	1.595910
+37	run03	CD	C	2	reward	matched	1.594189
+37	run03	CD	D	2	reward	mismatched	1.576863
+37	run03	EF	F	2	reward	mismatched	1.592556

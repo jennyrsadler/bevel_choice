@@ -1,26 +1,26 @@
-56	run02	EF	E	punish	mismatched	1.594856
-56	run02	AB	B	punish	matched	1.601949
-56	run02	AB	B	reward	mismatched	1.616116
-56	run02	CD	C	punish	mismatched	1.601002
-56	run02	AB	B	punish	matched	1.615265
-56	run02	Miss	Miss	Miss	Miss	Miss
-56	run02	AB	A	reward	matched	1.610923
-56	run02	CD	C	punish	mismatched	1.613182
-56	run02	Miss	Miss	Miss	Miss	Miss
-56	run02	EF	E	reward	matched	1.607855
-56	run02	CD	C	reward	matched	1.601657
-56	run02	AB	A	reward	matched	1.605105
-56	run02	AB	A	reward	matched	1.616958
-56	run02	CD	C	reward	matched	1.589860
-56	run02	AB	A	reward	matched	1.605745
-56	run02	CD	D	reward	mismatched	1.603816
-56	run02	EF	F	punish	matched	1.595403
-56	run02	EF	F	punish	matched	1.614750
-56	run02	CD	D	reward	mismatched	1.605197
-56	run02	CD	D	reward	mismatched	1.598304
-56	run02	EF	F	reward	mismatched	1.599927
-56	run02	EF	E	reward	matched	1.615868
-56	run02	EF	F	punish	matched	1.625525
-56	run02	EF	F	punish	matched	1.610927
-56	run02	AB	A	reward	matched	1.603840
-56	run02	EF	F	reward	mismatched	1.608965
+56	run02	EF	E	1	punish	mismatched	1.594856
+56	run02	AB	B	2	punish	matched	1.601949
+56	run02	AB	B	1	reward	mismatched	1.616116
+56	run02	CD	C	2	punish	mismatched	1.601002
+56	run02	AB	B	1	punish	matched	1.615265
+56	run02	EF	Miss	Miss	Miss	Miss	Miss
+56	run02	AB	A	1	reward	matched	1.610923
+56	run02	CD	C	1	punish	mismatched	1.613182
+56	run02	EF	Miss	Miss	Miss	Miss	Miss
+56	run02	EF	E	2	reward	matched	1.607855
+56	run02	CD	C	2	reward	matched	1.601657
+56	run02	AB	A	1	reward	matched	1.605105
+56	run02	AB	A	2	reward	matched	1.616958
+56	run02	CD	C	2	reward	matched	1.589860
+56	run02	AB	A	2	reward	matched	1.605745
+56	run02	CD	D	1	reward	mismatched	1.603816
+56	run02	EF	F	2	punish	matched	1.595403
+56	run02	EF	F	1	punish	matched	1.614750
+56	run02	CD	D	2	reward	mismatched	1.605197
+56	run02	CD	D	1	reward	mismatched	1.598304
+56	run02	EF	F	1	reward	mismatched	1.599927
+56	run02	EF	E	1	reward	matched	1.615868
+56	run02	EF	F	1	punish	matched	1.625525
+56	run02	EF	F	2	punish	matched	1.610927
+56	run02	AB	A	1	reward	matched	1.603840
+56	run02	EF	F	1	reward	mismatched	1.608965

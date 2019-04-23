@@ -1,26 +1,26 @@
-54	run04	AB	B	punish	matched	1.568213
-54	run04	EF	E	reward	matched	1.582125
-54	run04	AB	A	reward	matched	1.615307
-54	run04	EF	F	reward	mismatched	1.595939
-54	run04	EF	F	reward	mismatched	1.593519
-54	run04	CD	D	punish	matched	1.609092
-54	run04	AB	B	punish	matched	1.575245
-54	run04	AB	A	reward	matched	1.588335
-54	run04	EF	F	punish	matched	1.587145
-54	run04	EF	E	reward	matched	1.601539
-54	run04	EF	F	punish	matched	1.617486
-54	run04	AB	B	reward	mismatched	1.598377
-54	run04	CD	D	punish	matched	1.613400
-54	run04	CD	D	punish	matched	1.594403
-54	run04	AB	B	reward	mismatched	1.593132
-54	run04	CD	C	punish	mismatched	1.591691
-54	run04	EF	F	reward	mismatched	1.607963
-54	run04	EF	F	punish	matched	1.605045
-54	run04	CD	D	punish	matched	1.605161
-54	run04	AB	B	punish	matched	1.602930
-54	run04	EF	F	punish	matched	1.618175
-54	run04	EF	F	reward	mismatched	1.600050
-54	run04	EF	F	punish	matched	1.597296
-54	run04	AB	A	punish	mismatched	1.594796
-54	run04	CD	C	reward	matched	1.609742
-54	run04	CD	D	punish	matched	1.608141
+54	run04	AB	B	1	punish	matched	1.568213
+54	run04	EF	E	1	reward	matched	1.582125
+54	run04	AB	A	2	reward	matched	1.615307
+54	run04	EF	F	2	reward	mismatched	1.595939
+54	run04	EF	F	1	reward	mismatched	1.593519
+54	run04	CD	D	2	punish	matched	1.609092
+54	run04	AB	B	1	punish	matched	1.575245
+54	run04	AB	A	2	reward	matched	1.588335
+54	run04	EF	F	1	punish	matched	1.587145
+54	run04	EF	E	2	reward	matched	1.601539
+54	run04	EF	F	2	punish	matched	1.617486
+54	run04	AB	B	1	reward	mismatched	1.598377
+54	run04	CD	D	2	punish	matched	1.613400
+54	run04	CD	D	1	punish	matched	1.594403
+54	run04	AB	B	1	reward	mismatched	1.593132
+54	run04	CD	C	2	punish	mismatched	1.591691
+54	run04	EF	F	1	reward	mismatched	1.607963
+54	run04	EF	F	2	punish	matched	1.605045
+54	run04	CD	D	1	punish	matched	1.605161
+54	run04	AB	B	2	punish	matched	1.602930
+54	run04	EF	F	1	punish	matched	1.618175
+54	run04	EF	F	2	reward	mismatched	1.600050
+54	run04	EF	F	1	punish	matched	1.597296
+54	run04	AB	A	2	punish	mismatched	1.594796
+54	run04	CD	C	1	reward	matched	1.609742
+54	run04	CD	D	2	punish	matched	1.608141

@@ -1,26 +1,26 @@
-71	run03	EF	E	reward	matched	1.584535
-71	run03	CD	D	punish	matched	1.617018
-71	run03	EF	E	reward	matched	1.597785
-71	run03	AB	A	reward	matched	1.579456
-71	run03	EF	E	punish	mismatched	1.612297
-71	run03	EF	F	punish	matched	1.577222
-71	run03	AB	B	punish	matched	1.591575
-71	run03	AB	A	reward	matched	1.606497
-71	run03	AB	B	punish	matched	1.606221
-71	run03	AB	A	reward	matched	1.587107
-71	run03	CD	C	reward	matched	1.584466
-71	run03	CD	C	reward	matched	1.600128
-71	run03	AB	B	punish	matched	1.597426
-71	run03	AB	A	reward	matched	1.597012
-71	run03	EF	F	punish	matched	1.578557
-71	run03	CD	D	punish	matched	1.592524
-71	run03	EF	E	reward	matched	1.591627
-71	run03	EF	E	reward	matched	1.588619
-71	run03	CD	C	reward	matched	1.605059
-71	run03	CD	C	reward	matched	1.601713
-71	run03	AB	B	punish	matched	1.585099
-71	run03	EF	F	reward	mismatched	1.599707
-71	run03	EF	F	punish	matched	1.613710
-71	run03	AB	B	punish	matched	1.594776
-71	run03	Miss	Miss	Miss	Miss	Miss
-71	run03	EF	F	reward	mismatched	1.591644
+71	run03	EF	E	2	reward	matched	1.584535
+71	run03	CD	D	1	punish	matched	1.617018
+71	run03	EF	E	2	reward	matched	1.597785
+71	run03	AB	A	2	reward	matched	1.579456
+71	run03	EF	E	2	punish	mismatched	1.612297
+71	run03	EF	F	1	punish	matched	1.577222
+71	run03	AB	B	2	punish	matched	1.591575
+71	run03	AB	A	1	reward	matched	1.606497
+71	run03	AB	B	1	punish	matched	1.606221
+71	run03	AB	A	1	reward	matched	1.587107
+71	run03	CD	C	1	reward	matched	1.584466
+71	run03	CD	C	2	reward	matched	1.600128
+71	run03	AB	B	2	punish	matched	1.597426
+71	run03	AB	A	2	reward	matched	1.597012
+71	run03	EF	F	2	punish	matched	1.578557
+71	run03	CD	D	1	punish	matched	1.592524
+71	run03	EF	E	2	reward	matched	1.591627
+71	run03	EF	E	2	reward	matched	1.588619
+71	run03	CD	C	2	reward	matched	1.605059
+71	run03	CD	C	1	reward	matched	1.601713
+71	run03	AB	B	1	punish	matched	1.585099
+71	run03	EF	F	2	reward	mismatched	1.599707
+71	run03	EF	F	1	punish	matched	1.613710
+71	run03	AB	B	2	punish	matched	1.594776
+71	run03	CD	Miss	Miss	Miss	Miss	Miss
+71	run03	EF	F	1	reward	mismatched	1.591644

@@ -1,26 +1,26 @@
-46	run04	EF	E	punish	mismatched	1.567778
-46	run04	EF	E	reward	matched	1.582961
-46	run04	CD	C	reward	matched	1.616228
-46	run04	EF	E	reward	matched	1.597549
-46	run04	AB	A	reward	matched	1.596465
-46	run04	AB	B	punish	matched	1.595526
-46	run04	AB	B	punish	matched	1.612385
-46	run04	CD	C	reward	matched	1.610046
-46	run04	CD	C	reward	matched	1.592587
-46	run04	Miss	Miss	Miss	Miss	Miss
-46	run04	EF	F	punish	matched	1.607957
-46	run04	AB	B	punish	matched	1.605909
-46	run04	CD	D	punish	matched	1.605036
-46	run04	Miss	Miss	Miss	Miss	Miss
-46	run04	AB	B	reward	mismatched	1.602868
-46	run04	Miss	Miss	Miss	Miss	Miss
-46	run04	CD	C	reward	matched	1.585613
-46	run04	AB	B	punish	matched	1.600002
-46	run04	AB	A	reward	matched	1.617038
-46	run04	CD	D	punish	matched	1.599299
-46	run04	CD	D	reward	mismatched	1.614961
-46	run04	Miss	Miss	Miss	Miss	Miss
-46	run04	CD	C	reward	matched	1.613244
-46	run04	AB	B	punish	matched	1.610524
-46	run04	CD	D	punish	matched	1.592908
-46	run04	CD	D	punish	matched	1.608545
+46	run04	EF	E	1	punish	mismatched	1.567778
+46	run04	EF	E	2	reward	matched	1.582961
+46	run04	CD	C	2	reward	matched	1.616228
+46	run04	EF	E	1	reward	matched	1.597549
+46	run04	AB	A	2	reward	matched	1.596465
+46	run04	AB	B	2	punish	matched	1.595526
+46	run04	AB	B	1	punish	matched	1.612385
+46	run04	CD	C	1	reward	matched	1.610046
+46	run04	CD	C	1	reward	matched	1.592587
+46	run04	EF	Miss	Miss	Miss	Miss	Miss
+46	run04	EF	F	1	punish	matched	1.607957
+46	run04	AB	B	2	punish	matched	1.605909
+46	run04	CD	D	1	punish	matched	1.605036
+46	run04	CD	Miss	Miss	Miss	Miss	Miss
+46	run04	AB	B	1	reward	mismatched	1.602868
+46	run04	AB	Miss	Miss	Miss	Miss	Miss
+46	run04	CD	C	1	reward	matched	1.585613
+46	run04	AB	B	2	punish	matched	1.600002
+46	run04	AB	A	1	reward	matched	1.617038
+46	run04	CD	D	1	punish	matched	1.599299
+46	run04	CD	D	1	reward	mismatched	1.614961
+46	run04	CD	Miss	Miss	Miss	Miss	Miss
+46	run04	CD	C	1	reward	matched	1.613244
+46	run04	AB	B	2	punish	matched	1.610524
+46	run04	CD	D	1	punish	matched	1.592908
+46	run04	CD	D	2	punish	matched	1.608545

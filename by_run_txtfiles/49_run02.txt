@@ -1,26 +1,26 @@
-49	run02	EF	E	reward	matched	1.568819
-49	run02	CD	D	punish	matched	1.584179
-49	run02	CD	C	punish	mismatched	1.583821
-49	run02	AB	A	reward	matched	1.582499
-49	run02	AB	A	reward	matched	1.581068
-49	run02	EF	F	punish	matched	1.596619
-49	run02	AB	A	reward	matched	1.594781
-49	run02	CD	D	punish	matched	1.578437
-49	run02	EF	F	reward	mismatched	1.593739
-49	run02	CD	D	punish	matched	1.593191
-49	run02	AB	A	reward	matched	1.590410
-49	run02	AB	B	punish	matched	1.607167
-49	run02	AB	B	punish	matched	1.589627
-49	run02	AB	A	reward	matched	1.604151
-49	run02	CD	D	reward	mismatched	1.604316
-49	run02	AB	B	reward	mismatched	1.603088
-49	run02	EF	E	punish	mismatched	1.585599
-49	run02	AB	A	reward	matched	1.585000
-49	run02	CD	D	punish	matched	1.600932
-49	run02	CD	C	reward	matched	1.599323
-49	run02	AB	A	reward	matched	1.597113
-49	run02	AB	A	reward	matched	1.597288
-49	run02	EF	F	reward	mismatched	1.579792
-49	run02	EF	F	reward	mismatched	1.594955
-49	run02	Miss	Miss	Miss	Miss	Miss
-49	run02	EF	E	reward	matched	1.576263
+49	run02	EF	E	1	reward	matched	1.568819
+49	run02	CD	D	1	punish	matched	1.584179
+49	run02	CD	C	1	punish	mismatched	1.583821
+49	run02	AB	A	1	reward	matched	1.582499
+49	run02	AB	A	2	reward	matched	1.581068
+49	run02	EF	F	2	punish	matched	1.596619
+49	run02	AB	A	1	reward	matched	1.594781
+49	run02	CD	D	2	punish	matched	1.578437
+49	run02	EF	F	1	reward	mismatched	1.593739
+49	run02	CD	D	1	punish	matched	1.593191
+49	run02	AB	A	2	reward	matched	1.590410
+49	run02	AB	B	2	punish	matched	1.607167
+49	run02	AB	B	1	punish	matched	1.589627
+49	run02	AB	A	2	reward	matched	1.604151
+49	run02	CD	D	1	reward	mismatched	1.604316
+49	run02	AB	B	2	reward	mismatched	1.603088
+49	run02	EF	E	1	punish	mismatched	1.585599
+49	run02	AB	A	2	reward	matched	1.585000
+49	run02	CD	D	2	punish	matched	1.600932
+49	run02	CD	C	1	reward	matched	1.599323
+49	run02	AB	A	1	reward	matched	1.597113
+49	run02	AB	A	2	reward	matched	1.597288
+49	run02	EF	F	2	reward	mismatched	1.579792
+49	run02	EF	F	2	reward	mismatched	1.594955
+49	run02	CD	Miss	Miss	Miss	Miss	Miss
+49	run02	EF	E	1	reward	matched	1.576263

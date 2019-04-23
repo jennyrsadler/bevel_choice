@@ -1,26 +1,26 @@
-08	run02	AB	A	reward	matched	1.574717
-08	run02	AB	B	reward	mismatched	1.610370
-08	run02	Miss	Miss	Miss	Miss	Miss
-08	run02	AB	B	punish	matched	1.612647
-08	run02	Miss	Miss	Miss	Miss	Miss
-08	run02	AB	B	punish	matched	1.582629
-08	run02	CD	C	reward	matched	1.568239
-08	run02	CD	D	punish	matched	1.596204
-08	run02	Miss	Miss	Miss	Miss	Miss
-08	run02	EF	E	reward	matched	1.577767
-08	run02	EF	F	punish	matched	1.584241
-08	run02	AB	A	reward	matched	1.594394
-08	run02	CD	C	reward	matched	1.597875
-08	run02	EF	E	reward	matched	1.575303
-08	run02	AB	B	reward	mismatched	1.582851
-08	run02	EF	F	punish	matched	1.588662
-08	run02	AB	A	reward	matched	1.590275
-08	run02	EF	E	reward	matched	1.586660
-08	run02	EF	F	punish	matched	1.588473
-08	run02	CD	D	reward	mismatched	1.583286
-08	run02	CD	D	punish	matched	1.591263
-08	run02	EF	F	reward	mismatched	1.583982
-08	run02	CD	C	punish	mismatched	1.599135
-08	run02	AB	A	reward	matched	1.600068
-08	run02	AB	A	reward	matched	1.585574
-08	run02	CD	D	reward	mismatched	1.585486
+08	run02	AB	A	1	reward	matched	1.574717
+08	run02	AB	B	1	reward	mismatched	1.610370
+08	run02	EF	Miss	Miss	Miss	Miss	Miss
+08	run02	AB	B	1	punish	matched	1.612647
+08	run02	AB	Miss	Miss	Miss	Miss	Miss
+08	run02	AB	B	1	punish	matched	1.582629
+08	run02	CD	C	2	reward	matched	1.568239
+08	run02	CD	D	1	punish	matched	1.596204
+08	run02	EF	Miss	Miss	Miss	Miss	Miss
+08	run02	EF	E	2	reward	matched	1.577767
+08	run02	EF	F	2	punish	matched	1.584241
+08	run02	AB	A	1	reward	matched	1.594394
+08	run02	CD	C	1	reward	matched	1.597875
+08	run02	EF	E	1	reward	matched	1.575303
+08	run02	AB	B	2	reward	mismatched	1.582851
+08	run02	EF	F	1	punish	matched	1.588662
+08	run02	AB	A	2	reward	matched	1.590275
+08	run02	EF	E	2	reward	matched	1.586660
+08	run02	EF	F	1	punish	matched	1.588473
+08	run02	CD	D	2	reward	mismatched	1.583286
+08	run02	CD	D	2	punish	matched	1.591263
+08	run02	EF	F	1	reward	mismatched	1.583982
+08	run02	CD	C	1	punish	mismatched	1.599135
+08	run02	AB	A	1	reward	matched	1.600068
+08	run02	AB	A	1	reward	matched	1.585574
+08	run02	CD	D	1	reward	mismatched	1.585486
