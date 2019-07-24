@@ -1,4 +1,0 @@
-69	run04	AB	B	1	punish	matched	1.567778
-69	run04	CD	D	2	punish	matched	1.567802
-69	run04	EF	F	1	punish	matched	1.599630
-69	run04	AB	A	2	reward	matched	1.578966
