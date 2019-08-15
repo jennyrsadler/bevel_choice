@@ -1,0 +1,306 @@
+---
+title: "Bevel Probabilistic Selection Task Performance"
+output:
+  word_document: default
+  html_notebook: default
+  html_document:
+    df_print: paged
+---
+## Task Information
+#Total Number of Trials = 104 
+#Sweet taste and bitter taste was selected by participant to reflect reward & punishment
+#
+#
+
+```{r, echo=FALSE, results='hide', message=FALSE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(reshape)
+library(ggpubr)
+
+data <- read.delim("~/Documents/bevel_choice/all_subjects.txt")
+names(data) <- c("subj", "run", "pair", "choice", "outcome", "congruent", "RT")
+
+data <- data %>%
+  group_by(.dots=c("subj","pair")) %>%
+  mutate(Count=row_number())
+
+percent_correct_by_trial_ab <- function(n) {
+  count <- sum(data$Count == n & data$choice=="corr" & data$pair == "12")
+  countall <- sum(data$Count == n & data$pair == "12")
+  return(count/countall)
+}
+
+percent_correct_by_trial_cd <- function(n) {
+  count <- sum(data$Count == n & data$choice=="corr" & data$pair == "34")
+  countall <- sum(data$Count == n & data$pair == "34")
+  return(count/countall)
+}
+
+percent_correct_by_trial_ef <- function(n) {
+  count <- sum(data$Count == n & data$choice=="corr" & data$pair == "56")
+  countall <- sum(data$Count == n & data$pair == "56")
+  return(count/countall)
+}
+
+#percent_correct_by_trial_ab(10)
+
+x <- 1:46
+output_ab <- lapply(x, percent_correct_by_trial_ab) 
+output_cd <- lapply(x, percent_correct_by_trial_cd) 
+output_ef <- lapply(x, percent_correct_by_trial_ef) 
+
+df_ab <- data.frame(matrix(unlist(output_ab), nrow=length(output_ab), byrow=T))
+df_cd <- data.frame(matrix(unlist(output_cd), nrow=length(output_cd), byrow=T))
+df_ef <- data.frame(matrix(unlist(output_ef), nrow=length(output_ef), byrow=T))
+
+colnames(df_ab)[colnames(df_ab)=="matrix.unlist.output_ab...nrow...length.output_ab...byrow...T."] <- "percent_correct_ab"
+colnames(df_cd)[colnames(df_cd)=="matrix.unlist.output_cd...nrow...length.output_cd...byrow...T."] <- "percent_correct_cd"
+colnames(df_ef)[colnames(df_ef)=="matrix.unlist.output_ef...nrow...length.output_ef...byrow...T."] <- "percent_correct_ef"
+
+df_ab$trialnum<-row.names(df_ab)
+df_cd$trialnum<-row.names(df_cd)
+df_ef$trialnum<-row.names(df_ef)
+#head(df_ab$trialnum)
+
+data0<-merge(df_ab, df_cd, by="trialnum")
+data1<- merge(data0, df_ef, by="trialnum")
+
+df_ab$trial <- seq.int(nrow(df_ab))
+df_cd$trial <- seq.int(nrow(df_cd))
+df_ef$trial <- seq.int(nrow(df_ef))
+
+```
+
+
+```{r, echo=FALSE, results='hide', message=FALSE}
+plot1 <- ggplot(data=df_ab, aes(x=trial, y=percent_correct_ab, group=1)) +
+  geom_line()+
+  geom_point() +
+  theme_classic() + scale_x_continuous(name="Trial Number") +
+  scale_y_continuous(name="Percent of Sample choosing 80% Shape")
+
+plot2 <- ggplot(data=df_cd, aes(x=trial, y=percent_correct_cd, group=1)) +
+  geom_line()+
+  geom_point() + 
+  theme_classic() + scale_x_continuous(name="Trial Number") +
+  scale_y_continuous(name="Percent of Sample choosing 70% Shape") 
+
+plot3 <- ggplot(data=df_ef, aes(x=trial, y=percent_correct_ef, group=1)) +
+  geom_line()+
+  geom_point() + 
+  theme_classic() + scale_x_continuous(name="Trial Number") +
+  scale_y_continuous(name="Percent of Sample choosing 60% Shape")
+```
+
+#Learning Curves for each Shape Pair
+```{r, message=FALSE, fig.width=8}
+all_plot<-ggarrange(plot1, plot2, plot3, 
+          labels = c("80/20 pair", "70/30 pair", "60/40 pair"), 
+          ncol = 3, nrow = 1)
+
+all_plot
+```
+
+
+
+```{r, echo=FALSE, results='hide', message=FALSE}
+plot4 <- ggplot(data1, aes(as.numeric(trialnum))) + 
+  geom_line(aes(y = percent_correct_ab, colour = "80/20 pair")) + 
+  geom_line(aes(y = percent_correct_cd, colour = "70/30 pair")) + 
+  geom_line(aes(y = percent_correct_ef, colour = "60/40 pair")) +
+  theme_classic() + scale_x_continuous(name="Trial Number") +
+  scale_y_continuous(name="Percent of Sample choosing Higher %Correct Shape") +
+  labs(colour = "Shape Pair")
+  
+```
+
+
+# Learning Curves Together
+```{r}
+plot4
+```
+
+
+#Begin Processing Graphs for Each Participant
+```{r, , echo=FALSE, results='hide',message=FALSE}
+library(ggplot2)
+library(ggpubr)
+library(plyr)
+library(tidyverse)
+library(reshape)
+library(data.table)
+```
+
+```{r, , echo=FALSE, results='hide',message=FALSE}
+readdata <- function(fn){
+    dt_temp <- fread(fn, sep="\t")
+    return(dt_temp)
+}
+
+all.files <- list.files(path = "~/Documents/bevel_choice/by_participant_txtfiles/",pattern = ".txt", full.names = TRUE)
+mylist <- lapply(all.files, readdata)
+mydata <- rbindlist(mylist, use.names=FALSE)
+
+names(mydata)<-c("sub_num","run","type","choice","side","outcome","congruent","RT")
+mydata$side<-as.factor(mydata$side)
+mydata$side<-revalue(mydata$side, c("1"="left", "2"="right"))
+
+mydata <- mydata %>%
+ group_by(.dots=c("sub_num")) %>%
+ dplyr::mutate(Count=row_number())
+```
+
+# Plot "Heatmaps" of Outcomes During Training
+```{r, fig.width=8, fig.height=11}
+mydata$outcome0[mydata$outcome == "Miss"] <- 0
+mydata$outcome0[mydata$outcome == "punish"] <- -10
+mydata$outcome0[mydata$outcome == "reward"] <- 10
+
+hmTOTAL<-ggplot(mydata,aes(as.numeric(Count), as.factor(sub_num) , fill=outcome0))+
+  geom_tile()+
+  scale_fill_gradient2(low="red", high="green", na.value="black", name="")+
+  theme_classic()+ xlab(label = "Trial") + ylab(label= 'Subject Number')+
+  guides(fill=guide_legend(title='Outcome'))
+  #geom_point(aes(shape=as.factor(choice), size=1, color=as.factor(choice)))
+```
+
+# Plot "Heatmaps" of Outcomes During Training
+##-10 (red) = punishment (bitter taste)
+##0 (white) = missed press (no taste)
+##10 (green) = reward (sweet taste)
+```{r}
+hmTOTAL
+```
+
+Overlay with Shape Selected & Outcome
+```{r, echo=FALSE, results='hide', message=FALSE}
+hmTOTAL1<-ggplot(mydata,aes(as.numeric(Count), as.factor(sub_num) , fill=outcome0))+
+  geom_tile()+
+  scale_fill_gradient2(low="red", high="green", na.value="black", name="")+
+  theme_classic()+ xlab(label = "Trial") + ylab(label= 'Subject Number')+
+  guides(fill=guide_legend(title='Outcome')) +
+  geom_point(aes(shape=as.factor(choice), size=.7, color=as.factor(choice)))
+
+
+```
+
+```{r, fig.width=20, fig.height=16}
+hmTOTAL1
+```
+
+
+```{r, echo=FALSE, results='hide',message=FALSE}
+more_data<-read.table("~/Documents/bevel_choice/clean_bevel.csv",header=T, sep=",")
+more_data$sub_num<-row.names(more_data)
+head(more_data$sub_num)
+
+data0<-merge(mydata, more_data, by="sub_num")
+
+```
+
+#Split Into Groups Based on Posttest Performance
+```{r, fig.width=8, fig.height=11}
+summary(data0$sensitivity_reward)
+data0$learn[data0$sensitivity_reward < 0.444]<- "didn't learn"
+data0$learn[data0$sensitivity_reward >= 0.444 & data0$sensitivity_reward < 0.5  ]<- "maybe learn"
+data0$learn[ data0$sensitivity_reward >= 0.5 & data0$sensitivity_reward < 0.57 ]<- "ok"
+data0$learn[ data0$sensitivity_reward >= 0.57]<- "pretty good"
+summary(as.factor(data0$learn))
+
+hmTOTALgood<-ggplot(subset(data0, learn == "pretty good"),aes(as.numeric(Count), as.factor(sub_num) ,fill=outcome0))+
+  geom_tile()+
+  scale_fill_gradient2(low="red", high="green", na.value="black", name="") +
+  theme_classic()+ xlab(label = "Trial") + ylab(label= 'Subject Number') +
+  guides(fill=guide_legend(title='Outcome')) 
+  #geom_point(aes(shape=as.factor(choice), size=1, color=as.factor(choice)))
+#hmTOTALgood
+
+
+hmTOTALbad<-ggplot(subset(data0, learn == "didn't learn"),aes(as.numeric(Count), as.factor(sub_num) ,fill=outcome0))+
+  geom_tile()+
+  scale_fill_gradient2(low="red", high="green", na.value="black", name="") +
+  theme_classic()+ xlab(label = "Trial") + ylab(label= 'Subject Number') +
+  guides(fill=guide_legend(title='Outcome')) 
+  #geom_point(aes(shape=as.factor(choice), size=1, color=as.factor(choice)))
+#hmTOTALbad
+
+test1<-ggarrange(hmTOTALgood,hmTOTALbad, 
+          labels = c("Good Posttest", "Bad Posttest"), 
+          ncol = 1, nrow = 2)
+
+```
+
+
+#Split Into Groups Based on Posttest Performance
+```{r, fig.width=8, fig.height=11}
+test1
+```
+
+
+```{r, echo=FALSE, results='hide',message=FALSE}
+data0$choice0[data0$choice == "Miss"] <- 0
+# good
+data0$choice0[data0$choice == "A"] <- 30
+data0$choice0[data0$choice == "C"] <- 20
+data0$choice0[data0$choice == "E"] <- 10
+# bad
+data0$choice0[data0$choice == "B"] <- -30
+data0$choice0[data0$choice == "D"] <- -20
+data0$choice0[data0$choice == "F"] <- -10
+
+hmTOTALgood_flip<-ggplot(subset(data0, learn == "pretty good"),aes(as.numeric(Count), as.factor(sub_num) ,fill=choice0))+
+  geom_tile()+
+  scale_fill_gradient2(low="pink", high="blue", na.value="black", name="") +
+  theme_classic()+ xlab(label = "Trial") + ylab(label= 'Subject Number')+
+  guides(fill=guide_legend(title='Choice')) 
+  #geom_point(aes(shape=as.factor(outcome), size=1, color=as.factor(outcome)))
+#hmTOTALgood_flip
+
+
+hmTOTALbad_flip<-ggplot(subset(data0, learn == "didn't learn"),aes(as.numeric(Count), as.factor(sub_num) ,fill=choice0))+
+  geom_tile()+
+  scale_fill_gradient2(low="pink", high="blue", na.value="black", name="") + 
+  theme_classic()+ xlab(label = "Trial") + ylab(label= 'Subject Number') +
+  guides(fill=guide_legend(title='Choice')) 
+  #geom_point(aes(shape=as.factor(outcome), size=1, color=as.factor(outcome)))
+#hmTOTALbad_flip
+
+test2<-ggarrange(hmTOTALgood_flip,hmTOTALbad_flip, 
+          labels = c("Good Posttest", "Bad Posttest"),
+          ncol = 1, nrow = 2)
+
+```
+
+#Plot "Heatmaps" of Choices During Training
+##-30 (pink) = Choose F (40% correct)
+##-20 (mid pink) = Choose D (30% correct)
+##-10 (light pink) = Choose B (20% correct)
+##0 (white) = missed press (no choice)
+##10 (light blue) = Choose E (60% correct)
+##20 (mid blue) = Choose C (70% correct)
+##30 (blue) = Choose A (80% correct)
+
+```{r, fig.width=8, fig.height=11}
+test2
+```
+
+#Are there differences in training between posstest groups? 
+```{r}
+mytable <- xtabs(~choice+learn, data=data0)
+ftable(mytable) # print table 
+summary(mytable) # chi-square test of indepedence
+
+mytable <- xtabs(~outcome+learn, data=data0)
+ftable(mytable) # print table 
+summary(mytable) # chi-square test of indepedence
+
+
+mytable <- xtabs(~congruent+learn, data=data0)
+ftable(mytable) # print table 
+summary(mytable) # chi-square test of indepedence
+
+```
+# Ah ha moment
+#There is a difference between the number of mismatched trials in the "learners" and "non learners." Those who "don't learn" have more mismatches.
