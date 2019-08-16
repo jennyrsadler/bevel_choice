@@ -1,4 +1,0 @@
-05	run04	AB	A	1	reward	matched	1.554667
-05	run04	AB	Miss	Miss	Miss	Miss	Miss
-05	run04	CD	Miss	Miss	Miss	Miss	Miss
-05	run04	CD	Miss	Miss	Miss	Miss	Miss
