@@ -1,0 +1,345 @@
+=============================
+Subj 10 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.8284, df = 6, p-value = 0.03002
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.06577942 -0.07707772
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.4285714          1.0000000 
+
+=============================
+Subj 37 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.1365, df = 15.875, p-value = 0.04856
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.877806472 -0.003145909
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.1428571          0.5833333 
+
+=============================
+Subj 43 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 3.873, df = 6, p-value = 0.008237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2630072 1.1655642
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.7142857          0.0000000 
+
+=============================
+Subj 48 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 2.4495, df = 9, p-value = 0.03679
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.03059128 0.76940872
+sample estimates:
+mean in group bin1 mean in group bin5 
+               1.0                0.6 
+
+=============================
+Subj 55 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 2.8284, df = 6, p-value = 0.03002
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.07707772 1.06577942
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.5714286          0.0000000 
+
+=============================
+Subj 57 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 6, df = 6, p-value = 0.0009645
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.507584 1.206702
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.8571429          0.0000000 
+
+=============================
+Subj 81 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -3.873, df = 6, p-value = 0.008237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.1655642 -0.2630072
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.2857143          1.0000000 
+
+=============================
+Subj 88 
+Pair: 80/20 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.8284, df = 6, p-value = 0.03002
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.06577942 -0.07707772
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.4285714          1.0000000 
+
+=============================
+Subj 26 
+Pair: 70/30 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.9132, df = 14.891, p-value = 0.01077
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.0122708 -0.1565604
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.1428571          0.7272727 
+
+=============================
+Subj 41 
+Pair: 70/30 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 3.873, df = 6, p-value = 0.008237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2630072 1.1655642
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.7142857          0.0000000 
+
+=============================
+Subj 44 
+Pair: 70/30 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -4.6904, df = 11, p-value = 0.0006603
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.9795011 -0.3538323
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.0000000          0.6666667 
+
+=============================
+Subj 58 
+Pair: 70/30 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.6458, df = 7, p-value = 0.03315
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.94687198 -0.05312802
+sample estimates:
+mean in group bin1 mean in group bin5 
+               0.0                0.5 
+
+=============================
+Subj 68 
+Pair: 70/30 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 3.873, df = 6, p-value = 0.008237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2630072 1.1655642
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.7142857          0.0000000 
+
+=============================
+Subj 80 
+Pair: 70/30 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 3.873, df = 6, p-value = 0.008237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2630072 1.1655642
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.7142857          0.0000000 
+
+=============================
+Subj 82 
+Pair: 70/30 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 2.1365, df = 15.875, p-value = 0.04856
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.003145909 0.877806472
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.8571429          0.4166667 
+
+=============================
+Subj 10 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.4495, df = 11.294, p-value = 0.03176
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.083258 -0.059599
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.2857143          0.8571429 
+
+=============================
+Subj 27 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 3.873, df = 6, p-value = 0.008237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2630072 1.1655642
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.7142857          0.0000000 
+
+=============================
+Subj 37 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.203, df = 10.999, p-value = 0.04983
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.0947438777 -0.0004942176
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.2857143          0.8333333 
+
+=============================
+Subj 45 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -3.873, df = 6, p-value = 0.008237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.1655642 -0.2630072
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.2857143          1.0000000 
+
+=============================
+Subj 54 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 2.6449, df = 10.821, p-value = 0.02307
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.09792255 1.08064888
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.7142857          0.1250000 
+
+=============================
+Subj 58 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.8284, df = 6, p-value = 0.03002
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.06577942 -0.07707772
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.4285714          1.0000000 
+
+=============================
+Subj 71 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = -2.4495, df = 11.294, p-value = 0.03176
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.083258 -0.059599
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.1428571          0.7142857 
+
+=============================
+Subj 80 
+Pair: 60/40 
+
+	Welch Two Sample t-test
+
+data:  x$choice_num by x$trialbin
+t = 2.8284, df = 6, p-value = 0.03002
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.07707772 1.06577942
+sample estimates:
+mean in group bin1 mean in group bin5 
+         0.5714286          0.0000000 
+
